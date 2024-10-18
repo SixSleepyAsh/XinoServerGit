@@ -1,0 +1,192 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "1974761861",
+    "Type": "Event",
+    "GUID": "{83F17F6B-EDB1-4107-B0BA-70C1CF69175B}",
+    "Language": "SFX",
+    "Hash": "{9ECF0CAA-FA13-8B76-C545-1BDC12ED4B97}",
+    "ObjectPath": "Play_MC_Grunt",
+    "ShortName": "Play_MC_Grunt",
+    "Path": "Event/Play_MC_Grunt.bnk",
+    "Media": [
+     {
+      "Id": "55245734",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 03.wav",
+      "Path": "Media/55245734.wem",
+      "CachePath": "SFX/MC_Grunt 03_818F3B66.wem"
+     },
+     {
+      "Id": "122800738",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 08.wav",
+      "Path": "Media/122800738.wem",
+      "CachePath": "SFX/MC_Grunt 08_818F3B66.wem"
+     },
+     {
+      "Id": "166823804",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 11.wav",
+      "Path": "Media/166823804.wem",
+      "CachePath": "SFX/MC_Grunt 11_818F3B66.wem"
+     },
+     {
+      "Id": "338986027",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 10.wav",
+      "Path": "Media/338986027.wem",
+      "CachePath": "SFX/MC_Grunt 10_818F3B66.wem"
+     },
+     {
+      "Id": "360601165",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 04.wav",
+      "Path": "Media/360601165.wem",
+      "CachePath": "SFX/MC_Grunt 04_818F3B66.wem"
+     },
+     {
+      "Id": "439821815",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 02.wav",
+      "Path": "Media/439821815.wem",
+      "CachePath": "SFX/MC_Grunt 02_818F3B66.wem"
+     },
+     {
+      "Id": "648960608",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 13.wav",
+      "Path": "Media/648960608.wem",
+      "CachePath": "SFX/MC_Grunt 13_818F3B66.wem"
+     },
+     {
+      "Id": "793272638",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 01.wav",
+      "Path": "Media/793272638.wem",
+      "CachePath": "SFX/MC_Grunt 01_818F3B66.wem"
+     },
+     {
+      "Id": "804293470",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 12.wav",
+      "Path": "Media/804293470.wem",
+      "CachePath": "SFX/MC_Grunt 12_818F3B66.wem"
+     },
+     {
+      "Id": "861197013",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 07.wav",
+      "Path": "Media/861197013.wem",
+      "CachePath": "SFX/MC_Grunt 07_818F3B66.wem"
+     },
+     {
+      "Id": "914455416",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 09.wav",
+      "Path": "Media/914455416.wem",
+      "CachePath": "SFX/MC_Grunt 09_818F3B66.wem"
+     },
+     {
+      "Id": "998704733",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 06.wav",
+      "Path": "Media/998704733.wem",
+      "CachePath": "SFX/MC_Grunt 06_818F3B66.wem"
+     },
+     {
+      "Id": "1058106340",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Grunt 05.wav",
+      "Path": "Media/1058106340.wem",
+      "CachePath": "SFX/MC_Grunt 05_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1974761861",
+      "Name": "Play_MC_Grunt",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MC_Grunt",
+      "GUID": "{83F17F6B-EDB1-4107-B0BA-70C1CF69175B}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.18075",
+      "DurationMax": "0.2853125",
+      "MediaRefs": [
+       {
+        "Id": "55245734"
+       },
+       {
+        "Id": "122800738"
+       },
+       {
+        "Id": "166823804"
+       },
+       {
+        "Id": "338986027"
+       },
+       {
+        "Id": "360601165"
+       },
+       {
+        "Id": "439821815"
+       },
+       {
+        "Id": "648960608"
+       },
+       {
+        "Id": "793272638"
+       },
+       {
+        "Id": "804293470"
+       },
+       {
+        "Id": "861197013"
+       },
+       {
+        "Id": "914455416"
+       },
+       {
+        "Id": "998704733"
+       },
+       {
+        "Id": "1058106340"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F479B989-145B-9DA9-B648-82421ABB1864}"
+ }
+}

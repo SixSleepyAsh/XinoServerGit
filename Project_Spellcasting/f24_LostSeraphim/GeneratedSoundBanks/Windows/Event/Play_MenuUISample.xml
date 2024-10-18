@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="3723229655" Type="Event" GUID="{C2136CA2-0F61-42CB-83F5-629A15D850C9}" Language="SFX" Hash="{EA95787E-718F-DD59-9B73-620E6C4D97AC}">
+			<ObjectPath>Play_MenuUISample</ObjectPath>
+			<ShortName>Play_MenuUISample</ShortName>
+			<Path>Event/Play_MenuUISample.bnk</Path>
+			<Media>
+				<File Id="507855445" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MenuUISample.wav</ShortName>
+					<Path>Media/507855445.wem</Path>
+					<CachePath>SFX/MenuUISample_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3723229655" Name="Play_MenuUISample" ObjectPath="\Events\Default Work Unit\Play_MenuUISample" GUID="{C2136CA2-0F61-42CB-83F5-629A15D850C9}" DurationType="OneShot" DurationMin="1.8226666" DurationMax="1.8226666">
+					<MediaRefs>
+						<MediaRef Id="507855445"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{C6E23C64-1DD8-4371-2D17-A36C4B5F4CAA}</FileHash>
+</SoundBanksInfo>

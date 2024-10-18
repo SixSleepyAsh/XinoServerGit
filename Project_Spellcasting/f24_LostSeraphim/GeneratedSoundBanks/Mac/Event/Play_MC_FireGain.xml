@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="372985744" Type="Event" GUID="{177E972E-E661-443A-8642-E6BA3AE53769}" Language="SFX" Hash="{548B1B2C-260B-B89F-0DF0-9F40D0660BE9}">
+			<ObjectPath>Play_MC_FireGain</ObjectPath>
+			<ShortName>Play_MC_FireGain</ShortName>
+			<Path>Event/Play_MC_FireGain.bnk</Path>
+			<Media>
+				<File Id="115287200" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 8.wav</ShortName>
+					<Path>Media/115287200.wem</Path>
+					<CachePath>SFX/MC_FireGain 8_818F3B66.wem</CachePath>
+				</File>
+				<File Id="242019516" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 3.wav</ShortName>
+					<Path>Media/242019516.wem</Path>
+					<CachePath>SFX/MC_FireGain 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="275428952" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 5.wav</ShortName>
+					<Path>Media/275428952.wem</Path>
+					<CachePath>SFX/MC_FireGain 5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="590221184" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 1.wav</ShortName>
+					<Path>Media/590221184.wem</Path>
+					<CachePath>SFX/MC_FireGain 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="619746523" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 7.wav</ShortName>
+					<Path>Media/619746523.wem</Path>
+					<CachePath>SFX/MC_FireGain 7_818F3B66.wem</CachePath>
+				</File>
+				<File Id="753974754" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 2.wav</ShortName>
+					<Path>Media/753974754.wem</Path>
+					<CachePath>SFX/MC_FireGain 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="868917601" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 4.wav</ShortName>
+					<Path>Media/868917601.wem</Path>
+					<CachePath>SFX/MC_FireGain 4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="974968946" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 6.wav</ShortName>
+					<Path>Media/974968946.wem</Path>
+					<CachePath>SFX/MC_FireGain 6_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="372985744" Name="Play_MC_FireGain" ObjectPath="\Events\Default Work Unit\Play_MC_FireGain" GUID="{177E972E-E661-443A-8642-E6BA3AE53769}" DurationType="OneShot" DurationMin="1.4012083" DurationMax="1.9066666">
+					<MediaRefs>
+						<MediaRef Id="115287200"/>
+						<MediaRef Id="242019516"/>
+						<MediaRef Id="275428952"/>
+						<MediaRef Id="590221184"/>
+						<MediaRef Id="619746523"/>
+						<MediaRef Id="753974754"/>
+						<MediaRef Id="868917601"/>
+						<MediaRef Id="974968946"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{15FFD941-CB12-539C-7109-1333764068D4}</FileHash>
+</SoundBanksInfo>

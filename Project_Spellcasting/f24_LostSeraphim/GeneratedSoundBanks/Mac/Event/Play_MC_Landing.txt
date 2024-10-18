@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	610579102	Play_MC_Landing			\Default Work Unit\Play_MC_Landing	
+

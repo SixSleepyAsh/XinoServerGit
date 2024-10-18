@@ -1,0 +1,180 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "717910394",
+    "Type": "Event",
+    "GUID": "{E0B89560-6FC8-42D0-BC7B-CFC9A900BAE9}",
+    "Language": "SFX",
+    "Hash": "{2E63CC47-45C7-79CD-2EDF-BFF0C76CB171}",
+    "ObjectPath": "Play_Fire_Punch_Light",
+    "ShortName": "Play_Fire_Punch_Light",
+    "Path": "Event/Play_Fire_Punch_Light.bnk",
+    "Media": [
+     {
+      "Id": "261823512",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 03.wav",
+      "Path": "Media/261823512.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 03_818F3B66.wem"
+     },
+     {
+      "Id": "290497173",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 01.wav",
+      "Path": "Media/290497173.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 01_818F3B66.wem"
+     },
+     {
+      "Id": "347530432",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 10.wav",
+      "Path": "Media/347530432.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 10_818F3B66.wem"
+     },
+     {
+      "Id": "447769940",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 02.wav",
+      "Path": "Media/447769940.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 02_818F3B66.wem"
+     },
+     {
+      "Id": "491449443",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 09.wav",
+      "Path": "Media/491449443.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 09_818F3B66.wem"
+     },
+     {
+      "Id": "496620052",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 08.wav",
+      "Path": "Media/496620052.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 08_818F3B66.wem"
+     },
+     {
+      "Id": "510777215",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 04.wav",
+      "Path": "Media/510777215.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 04_818F3B66.wem"
+     },
+     {
+      "Id": "599728402",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 05.wav",
+      "Path": "Media/599728402.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 05_818F3B66.wem"
+     },
+     {
+      "Id": "608377001",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 11.wav",
+      "Path": "Media/608377001.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 11_818F3B66.wem"
+     },
+     {
+      "Id": "661579086",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 06.wav",
+      "Path": "Media/661579086.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 06_818F3B66.wem"
+     },
+     {
+      "Id": "891666741",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light-001.wav",
+      "Path": "Media/891666741.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light-001_818F3B66.wem"
+     },
+     {
+      "Id": "1058471317",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Fire_Punch_Light 07.wav",
+      "Path": "Media/1058471317.wem",
+      "CachePath": "SFX/MC_Fire_Punch_Light 07_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "717910394",
+      "Name": "Play_Fire_Punch_Light",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Fire_Punch_Light",
+      "GUID": "{E0B89560-6FC8-42D0-BC7B-CFC9A900BAE9}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.5483125",
+      "DurationMax": "186.32202",
+      "MediaRefs": [
+       {
+        "Id": "261823512"
+       },
+       {
+        "Id": "290497173"
+       },
+       {
+        "Id": "347530432"
+       },
+       {
+        "Id": "447769940"
+       },
+       {
+        "Id": "491449443"
+       },
+       {
+        "Id": "496620052"
+       },
+       {
+        "Id": "510777215"
+       },
+       {
+        "Id": "599728402"
+       },
+       {
+        "Id": "608377001"
+       },
+       {
+        "Id": "661579086"
+       },
+       {
+        "Id": "891666741"
+       },
+       {
+        "Id": "1058471317"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9BE2F3A3-A596-C3DB-C3D9-327A7B8D311B}"
+ }
+}

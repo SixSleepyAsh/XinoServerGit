@@ -1,0 +1,74 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "3509027692",
+    "Type": "Event",
+    "GUID": "{759785D8-0B64-4273-B200-0E8106D39EF3}",
+    "Language": "SFX",
+    "Hash": "{314546D4-D5A3-1A53-C4AB-684482BD6986}",
+    "ObjectPath": "Play_AmbienceMainMenu",
+    "ShortName": "Play_AmbienceMainMenu",
+    "Path": "Event/Play_AmbienceMainMenu.bnk",
+    "Media": [
+     {
+      "Id": "580079521",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AmbienceMainMenu.wav",
+      "Path": "Media/580079521.wem",
+      "CachePath": "SFX/AmbienceMainMenu_FBC78EF0.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3509027692",
+      "Name": "Play_AmbienceMainMenu",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_AmbienceMainMenu",
+      "GUID": "{759785D8-0B64-4273-B200-0E8106D39EF3}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "580079521"
+       }
+      ]
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "4091764041",
+      "Name": "AmbienceSwitch",
+      "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceSwitch",
+      "GUID": "{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}",
+      "Switches": [
+       {
+        "Id": "2323193050",
+        "Name": "Temple",
+        "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceSwitch\\Temple",
+        "GUID": "{58A168D1-2D59-471B-A216-53CC222733BA}"
+       },
+       {
+        "Id": "3604647259",
+        "Name": "MainMenu",
+        "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceSwitch\\MainMenu",
+        "GUID": "{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"
+       },
+       {
+        "Id": "4048393986",
+        "Name": "CombatArena",
+        "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceSwitch\\CombatArena",
+        "GUID": "{C35B205A-666D-4023-9C80-7AB64B98A337}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{947591BB-1849-EE93-2115-7B97140C3154}"
+ }
+}

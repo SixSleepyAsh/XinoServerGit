@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1621942774" Type="Event" GUID="{36B4828E-BC9E-4068-87D3-B099EA48A123}" Language="SFX" Hash="{5BD2CF8B-611F-DD0C-E6DE-0B6E8C022E9C}">
+			<ObjectPath>Set_Switch_Temple</ObjectPath>
+			<ShortName>Set_Switch_Temple</ShortName>
+			<Path>Event/Set_Switch_Temple.bnk</Path>
+			<Events>
+				<Event Id="1621942774" Name="Set_Switch_Temple" ObjectPath="\Events\Default Work Unit\Set_Switch_Temple" GUID="{36B4828E-BC9E-4068-87D3-B099EA48A123}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetSwitch>
+						<ActionSetSwitchEntry GroupId="4091764041" Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+					</ActionSetSwitch>
+				</Event>
+			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="4091764041" Name="AmbienceSwitch" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch" GUID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<Switches>
+						<Switch Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{BE74E79B-69D5-2462-CC70-02BCB23D1E27}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,51 @@
+﻿# Directories
+Build\
+DerivedDataCache\
+Intermediate\
+Saved\
+
+# Solutions
+*.sln
+
+# Perforce
+p4config
+p4config.txt
+
+# Visual Studio Code specific files and folders
+.vscode/
+.vsconfig
+
+# Visual Studio
+.vs\
+*.csproj.References
+*.csproj.props
+*.opendb
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.VC.db
+*.vcxproj
+*.vcxproj.filters
+
+# Rider IDE specific files and folders
+.idea/
+.idea_modules/
+.idea/*
+!*.idea/workspace.xml
+!*.idea/modules.xml
+*.iml
+*.iws
+.idea/
+
+# Wwise
+.cache\
+*.akd
+*.prof
+*.validationcache
+*.wsettings
+
+
+# UE5/Wwise Temp Files
+WwiseAudio\**.xml~
+WwiseAudio\**.json~

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="3022734957" Type="Event" GUID="{5D2D7119-0476-466A-AE10-D2944F3C675E}" Language="SFX" Hash="{C4150BCB-D9A6-B431-C9C9-7225E1BB46A4}">
+			<ObjectPath>Play_MC_Jump</ObjectPath>
+			<ShortName>Play_MC_Jump</ShortName>
+			<Path>Event/Play_MC_Jump.bnk</Path>
+			<Media>
+				<File Id="79724574" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 02.wav</ShortName>
+					<Path>Media/79724574.wem</Path>
+					<CachePath>SFX/MC_Jump 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="181804427" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 01.wav</ShortName>
+					<Path>Media/181804427.wem</Path>
+					<CachePath>SFX/MC_Jump 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="184135054" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 11.wav</ShortName>
+					<Path>Media/184135054.wem</Path>
+					<CachePath>SFX/MC_Jump 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="262769796" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 10.wav</ShortName>
+					<Path>Media/262769796.wem</Path>
+					<CachePath>SFX/MC_Jump 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="267279292" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 08.wav</ShortName>
+					<Path>Media/267279292.wem</Path>
+					<CachePath>SFX/MC_Jump 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="524183924" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 12.wav</ShortName>
+					<Path>Media/524183924.wem</Path>
+					<CachePath>SFX/MC_Jump 12_818F3B66.wem</CachePath>
+				</File>
+				<File Id="529785072" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 09.wav</ShortName>
+					<Path>Media/529785072.wem</Path>
+					<CachePath>SFX/MC_Jump 09_818F3B66.wem</CachePath>
+				</File>
+				<File Id="591442462" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 07.wav</ShortName>
+					<Path>Media/591442462.wem</Path>
+					<CachePath>SFX/MC_Jump 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="603770516" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 13.wav</ShortName>
+					<Path>Media/603770516.wem</Path>
+					<CachePath>SFX/MC_Jump 13_818F3B66.wem</CachePath>
+				</File>
+				<File Id="805333481" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 04.wav</ShortName>
+					<Path>Media/805333481.wem</Path>
+					<CachePath>SFX/MC_Jump 04_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3022734957" Name="Play_MC_Jump" ObjectPath="\Events\Default Work Unit\Play_MC_Jump" GUID="{5D2D7119-0476-466A-AE10-D2944F3C675E}" DurationType="OneShot" DurationMin="0.68222916" DurationMax="0.69739586">
+					<MediaRefs>
+						<MediaRef Id="79724574"/>
+						<MediaRef Id="181804427"/>
+						<MediaRef Id="184135054"/>
+						<MediaRef Id="262769796"/>
+						<MediaRef Id="267279292"/>
+						<MediaRef Id="524183924"/>
+						<MediaRef Id="529785072"/>
+						<MediaRef Id="591442462"/>
+						<MediaRef Id="603770516"/>
+						<MediaRef Id="805333481"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{AC3D1B25-A05D-42BF-CB6E-388D713F407D}</FileHash>
+</SoundBanksInfo>

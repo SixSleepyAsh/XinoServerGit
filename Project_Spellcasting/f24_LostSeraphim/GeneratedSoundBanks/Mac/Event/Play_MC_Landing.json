@@ -1,0 +1,216 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "610579102",
+    "Type": "Event",
+    "GUID": "{AC7E2225-85E3-4807-BFF8-80DED99E45DC}",
+    "Language": "SFX",
+    "Hash": "{91699B06-4FD3-E1F9-8EC0-3FA37B56FCB3}",
+    "ObjectPath": "Play_MC_Landing",
+    "ShortName": "Play_MC_Landing",
+    "Path": "Event/Play_MC_Landing.bnk",
+    "Media": [
+     {
+      "Id": "15967757",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 07.wav",
+      "Path": "Media/15967757.wem",
+      "CachePath": "SFX/MC_Landing 07_818F3B66.wem"
+     },
+     {
+      "Id": "22608227",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 04.wav",
+      "Path": "Media/22608227.wem",
+      "CachePath": "SFX/MC_Landing 04_818F3B66.wem"
+     },
+     {
+      "Id": "196047331",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 10.wav",
+      "Path": "Media/196047331.wem",
+      "CachePath": "SFX/MC_Landing 10_818F3B66.wem"
+     },
+     {
+      "Id": "258656253",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 09.wav",
+      "Path": "Media/258656253.wem",
+      "CachePath": "SFX/MC_Landing 09_818F3B66.wem"
+     },
+     {
+      "Id": "266785622",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 01.wav",
+      "Path": "Media/266785622.wem",
+      "CachePath": "SFX/MC_Landing 01_818F3B66.wem"
+     },
+     {
+      "Id": "416503774",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 03.wav",
+      "Path": "Media/416503774.wem",
+      "CachePath": "SFX/MC_Landing 03_818F3B66.wem"
+     },
+     {
+      "Id": "571766968",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 14.wav",
+      "Path": "Media/571766968.wem",
+      "CachePath": "SFX/MC_Landing 14_818F3B66.wem"
+     },
+     {
+      "Id": "638360863",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 02.wav",
+      "Path": "Media/638360863.wem",
+      "CachePath": "SFX/MC_Landing 02_818F3B66.wem"
+     },
+     {
+      "Id": "717013744",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 05.wav",
+      "Path": "Media/717013744.wem",
+      "CachePath": "SFX/MC_Landing 05_818F3B66.wem"
+     },
+     {
+      "Id": "771734294",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 13.wav",
+      "Path": "Media/771734294.wem",
+      "CachePath": "SFX/MC_Landing 13_818F3B66.wem"
+     },
+     {
+      "Id": "850890702",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 12.wav",
+      "Path": "Media/850890702.wem",
+      "CachePath": "SFX/MC_Landing 12_818F3B66.wem"
+     },
+     {
+      "Id": "851324815",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 06.wav",
+      "Path": "Media/851324815.wem",
+      "CachePath": "SFX/MC_Landing 06_818F3B66.wem"
+     },
+     {
+      "Id": "902782000",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 08.wav",
+      "Path": "Media/902782000.wem",
+      "CachePath": "SFX/MC_Landing 08_818F3B66.wem"
+     },
+     {
+      "Id": "1003162746",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 15.wav",
+      "Path": "Media/1003162746.wem",
+      "CachePath": "SFX/MC_Landing 15_818F3B66.wem"
+     },
+     {
+      "Id": "1050370674",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Landing 11.wav",
+      "Path": "Media/1050370674.wem",
+      "CachePath": "SFX/MC_Landing 11_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "610579102",
+      "Name": "Play_MC_Landing",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MC_Landing",
+      "GUID": "{AC7E2225-85E3-4807-BFF8-80DED99E45DC}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.32529166",
+      "DurationMax": "0.53314584",
+      "MediaRefs": [
+       {
+        "Id": "15967757"
+       },
+       {
+        "Id": "22608227"
+       },
+       {
+        "Id": "196047331"
+       },
+       {
+        "Id": "258656253"
+       },
+       {
+        "Id": "266785622"
+       },
+       {
+        "Id": "416503774"
+       },
+       {
+        "Id": "571766968"
+       },
+       {
+        "Id": "638360863"
+       },
+       {
+        "Id": "717013744"
+       },
+       {
+        "Id": "771734294"
+       },
+       {
+        "Id": "850890702"
+       },
+       {
+        "Id": "851324815"
+       },
+       {
+        "Id": "902782000"
+       },
+       {
+        "Id": "1003162746"
+       },
+       {
+        "Id": "1050370674"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E89C71D9-EB5E-563B-6394-EB445FCA052B}"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2707314660",
+    "Type": "Event",
+    "GUID": "{6714A991-5933-4999-A96F-CC58E09294F0}",
+    "Language": "SFX",
+    "Hash": "{22DAE5DE-CBFA-B720-AF7A-3D01F35DB34E}",
+    "ObjectPath": "Play_Lau_StyleSampleV2",
+    "ShortName": "Play_Lau_StyleSampleV2",
+    "Path": "Event/Play_Lau_StyleSampleV2.bnk",
+    "Media": [
+     {
+      "Id": "969868969",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Lau_StyleSampleV2.wav",
+      "Path": "Media/969868969.wem",
+      "CachePath": "SFX/Lau_StyleSampleV2_FBC78EF0.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2707314660",
+      "Name": "Play_Lau_StyleSampleV2",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Lau_StyleSampleV2",
+      "GUID": "{6714A991-5933-4999-A96F-CC58E09294F0}",
+      "DurationType": "OneShot",
+      "DurationMin": "71.19501",
+      "DurationMax": "71.19501",
+      "MediaRefs": [
+       {
+        "Id": "969868969"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BC237CE2-DFE7-FEA8-10FD-31EFAAC9719F}"
+ }
+}

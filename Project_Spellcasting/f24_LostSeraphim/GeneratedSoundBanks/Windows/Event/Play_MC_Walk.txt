@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3017749058	Play_MC_Walk			\Default Work Unit\Play_MC_Walk	
+

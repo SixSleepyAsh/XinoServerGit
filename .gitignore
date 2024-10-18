@@ -1,0 +1,77 @@
+# Unreal Engine directories
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unreal Engine files
+*.log
+*.tmp
+*.diff
+*.dat
+
+# Solutions
+*.sln
+
+# Perforce
+p4config
+p4config.txt
+
+# Visual Studio Code specific files and folders
+.vscode/
+.vsconfig
+
+# Visual Studio
+.vs/
+*.csproj.References
+*.csproj.props
+*.opendb
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.VC.db
+*.vcxproj
+*.vcxproj.filters
+
+# Rider IDE specific files and folders
+.idea/
+.idea_modules/
+.idea/*
+!*.idea/workspace.xml
+!*.idea/modules.xml
+*.iml
+*.iws
+.idea/
+
+# Wwise
+.cache/
+*.akd
+*.prof
+*.validationcache
+*.wsettings
+
+# UE5/Wwise Temp Files
+WwiseAudio/**/*.xml~
+WwiseAudio/**/*.json~
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Backup and archive files
+*.bak
+*.old
+*.tmp
+*.orig
+
+# Ignore generated executable files
+*.exe
+*.dll
+*.pdb
+
+# Ignore Unreal build output
+Binaries/
+Latest_Build/

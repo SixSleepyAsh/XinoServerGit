@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1806488964" Type="Event" GUID="{9AD18814-1C8E-4BEE-94D9-718D7AD7D177}" Language="SFX" Hash="{9B937261-DC1E-AF4A-B0D1-B6EEFB9B4E65}">
+			<ObjectPath>Play_Menu_Return</ObjectPath>
+			<ShortName>Play_Menu_Return</ShortName>
+			<Path>Event/Play_Menu_Return.bnk</Path>
+			<Media>
+				<File Id="800228396" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>UI_Menu_Return 02.wav</ShortName>
+					<Path>Media/800228396.wem</Path>
+					<CachePath>SFX/UI_Menu_Return 02_EE31EFEA.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1806488964" Name="Play_Menu_Return" ObjectPath="\Events\Default Work Unit\Play_Menu_Return" GUID="{9AD18814-1C8E-4BEE-94D9-718D7AD7D177}" DurationType="OneShot" DurationMin="0.84002084" DurationMax="0.84002084">
+					<MediaRefs>
+						<MediaRef Id="800228396"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{4935F72D-55D7-6CF0-0957-80938380FA0F}</FileHash>
+</SoundBanksInfo>

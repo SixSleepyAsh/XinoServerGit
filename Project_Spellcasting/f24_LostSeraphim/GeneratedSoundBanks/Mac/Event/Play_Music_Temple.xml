@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2920492637" Type="Event" GUID="{F10551EB-AB2A-4855-9DAA-CBB1E501660F}" Language="SFX" Hash="{40C42E5D-1F43-151E-53D3-F707309D7B39}">
+			<ObjectPath>Play_Music_Temple</ObjectPath>
+			<ShortName>Play_Music_Temple</ShortName>
+			<Path>Event/Play_Music_Temple.bnk</Path>
+			<Media>
+				<File Id="225153878" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Percussion_InitialV2.wav</ShortName>
+					<Path>Media/225153878.wem</Path>
+					<CachePath>SFX/Percussion_InitialV2_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="725940818" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Percussion_Middle_V2.wav</ShortName>
+					<Path>Media/725940818.wem</Path>
+					<CachePath>SFX/Percussion_Middle_V2_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2920492637" Name="Play_Music_Temple" ObjectPath="\Events\Default Work Unit\Play_Music_Temple" GUID="{F10551EB-AB2A-4855-9DAA-CBB1E501660F}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="225153878"/>
+						<MediaRef Id="725940818"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{08412FB2-95AC-0431-D470-68B3FE8446F7}</FileHash>
+</SoundBanksInfo>

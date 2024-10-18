@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3325397748	Play_StyleSampleV1			\Default Work Unit\Play_StyleSampleV1	
+

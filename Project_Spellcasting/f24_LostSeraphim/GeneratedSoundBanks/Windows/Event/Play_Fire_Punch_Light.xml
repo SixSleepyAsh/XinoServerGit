@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="717910394" Type="Event" GUID="{E0B89560-6FC8-42D0-BC7B-CFC9A900BAE9}" Language="SFX" Hash="{2E63CC47-45C7-79CD-2EDF-BFF0C76CB171}">
+			<ObjectPath>Play_Fire_Punch_Light</ObjectPath>
+			<ShortName>Play_Fire_Punch_Light</ShortName>
+			<Path>Event/Play_Fire_Punch_Light.bnk</Path>
+			<Media>
+				<File Id="261823512" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 03.wav</ShortName>
+					<Path>Media/261823512.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="290497173" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 01.wav</ShortName>
+					<Path>Media/290497173.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="347530432" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 10.wav</ShortName>
+					<Path>Media/347530432.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="447769940" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 02.wav</ShortName>
+					<Path>Media/447769940.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="491449443" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 09.wav</ShortName>
+					<Path>Media/491449443.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 09_818F3B66.wem</CachePath>
+				</File>
+				<File Id="496620052" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 08.wav</ShortName>
+					<Path>Media/496620052.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="510777215" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 04.wav</ShortName>
+					<Path>Media/510777215.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="599728402" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 05.wav</ShortName>
+					<Path>Media/599728402.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="608377001" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 11.wav</ShortName>
+					<Path>Media/608377001.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="661579086" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 06.wav</ShortName>
+					<Path>Media/661579086.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="891666741" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light-001.wav</ShortName>
+					<Path>Media/891666741.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light-001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1058471317" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 07.wav</ShortName>
+					<Path>Media/1058471317.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 07_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="717910394" Name="Play_Fire_Punch_Light" ObjectPath="\Events\Default Work Unit\Play_Fire_Punch_Light" GUID="{E0B89560-6FC8-42D0-BC7B-CFC9A900BAE9}" DurationType="OneShot" DurationMin="1.5483125" DurationMax="186.32202">
+					<MediaRefs>
+						<MediaRef Id="261823512"/>
+						<MediaRef Id="290497173"/>
+						<MediaRef Id="347530432"/>
+						<MediaRef Id="447769940"/>
+						<MediaRef Id="491449443"/>
+						<MediaRef Id="496620052"/>
+						<MediaRef Id="510777215"/>
+						<MediaRef Id="599728402"/>
+						<MediaRef Id="608377001"/>
+						<MediaRef Id="661579086"/>
+						<MediaRef Id="891666741"/>
+						<MediaRef Id="1058471317"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{5B61D313-D7A5-5456-1601-5F8E6E750EE8}</FileHash>
+</SoundBanksInfo>

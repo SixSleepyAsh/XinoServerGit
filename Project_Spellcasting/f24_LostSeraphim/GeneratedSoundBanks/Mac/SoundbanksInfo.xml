@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Mac</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="14221910" Type="Event" GUID="{66BE97C1-49DB-4BC0-804E-C02DF2C69303}" Language="SFX" Hash="{8435347A-1E6F-FC59-80D5-7485916B99B4}">
+			<ObjectPath>Set_Switch_CombatArena</ObjectPath>
+			<ShortName>Set_Switch_CombatArena</ShortName>
+			<Path>Event/Set_Switch_CombatArena.bnk</Path>
+			<Events>
+				<Event Id="14221910" Name="Set_Switch_CombatArena" ObjectPath="\Events\Default Work Unit\Set_Switch_CombatArena" GUID="{66BE97C1-49DB-4BC0-804E-C02DF2C69303}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetSwitch>
+						<ActionSetSwitchEntry GroupId="4091764041" Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</ActionSetSwitch>
+				</Event>
+			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="4091764041" Name="AmbienceSwitch" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch" GUID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<Switches>
+						<Switch Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="372985744" Type="Event" GUID="{177E972E-E661-443A-8642-E6BA3AE53769}" Language="SFX" Hash="{548B1B2C-260B-B89F-0DF0-9F40D0660BE9}">
+			<ObjectPath>Play_MC_FireGain</ObjectPath>
+			<ShortName>Play_MC_FireGain</ShortName>
+			<Path>Event/Play_MC_FireGain.bnk</Path>
+			<Media>
+				<File Id="115287200" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 8.wav</ShortName>
+					<Path>Media/115287200.wem</Path>
+					<CachePath>SFX/MC_FireGain 8_818F3B66.wem</CachePath>
+				</File>
+				<File Id="242019516" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 3.wav</ShortName>
+					<Path>Media/242019516.wem</Path>
+					<CachePath>SFX/MC_FireGain 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="275428952" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 5.wav</ShortName>
+					<Path>Media/275428952.wem</Path>
+					<CachePath>SFX/MC_FireGain 5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="590221184" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 1.wav</ShortName>
+					<Path>Media/590221184.wem</Path>
+					<CachePath>SFX/MC_FireGain 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="619746523" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 7.wav</ShortName>
+					<Path>Media/619746523.wem</Path>
+					<CachePath>SFX/MC_FireGain 7_818F3B66.wem</CachePath>
+				</File>
+				<File Id="753974754" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 2.wav</ShortName>
+					<Path>Media/753974754.wem</Path>
+					<CachePath>SFX/MC_FireGain 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="868917601" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 4.wav</ShortName>
+					<Path>Media/868917601.wem</Path>
+					<CachePath>SFX/MC_FireGain 4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="974968946" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_FireGain 6.wav</ShortName>
+					<Path>Media/974968946.wem</Path>
+					<CachePath>SFX/MC_FireGain 6_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="372985744" Name="Play_MC_FireGain" ObjectPath="\Events\Default Work Unit\Play_MC_FireGain" GUID="{177E972E-E661-443A-8642-E6BA3AE53769}" DurationType="OneShot" DurationMin="1.4012083" DurationMax="1.9066666">
+					<MediaRefs>
+						<MediaRef Id="115287200"/>
+						<MediaRef Id="242019516"/>
+						<MediaRef Id="275428952"/>
+						<MediaRef Id="590221184"/>
+						<MediaRef Id="619746523"/>
+						<MediaRef Id="753974754"/>
+						<MediaRef Id="868917601"/>
+						<MediaRef Id="974968946"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="589513996" Type="Event" GUID="{A1AFC676-F389-4065-B740-3D82FF8A2474}" Language="SFX" Hash="{63E6D790-267A-5EAE-5BBD-97781A3CA644}">
+			<ObjectPath>Stop_AmbienceSwitch</ObjectPath>
+			<ShortName>Stop_AmbienceSwitch</ShortName>
+			<Path>Event/Stop_AmbienceSwitch.bnk</Path>
+			<Events>
+				<Event Id="589513996" Name="Stop_AmbienceSwitch" ObjectPath="\Events\Default Work Unit\Stop_AmbienceSwitch" GUID="{A1AFC676-F389-4065-B740-3D82FF8A2474}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="610579102" Type="Event" GUID="{AC7E2225-85E3-4807-BFF8-80DED99E45DC}" Language="SFX" Hash="{91699B06-4FD3-E1F9-8EC0-3FA37B56FCB3}">
+			<ObjectPath>Play_MC_Landing</ObjectPath>
+			<ShortName>Play_MC_Landing</ShortName>
+			<Path>Event/Play_MC_Landing.bnk</Path>
+			<Media>
+				<File Id="15967757" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 07.wav</ShortName>
+					<Path>Media/15967757.wem</Path>
+					<CachePath>SFX/MC_Landing 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="22608227" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 04.wav</ShortName>
+					<Path>Media/22608227.wem</Path>
+					<CachePath>SFX/MC_Landing 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="196047331" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 10.wav</ShortName>
+					<Path>Media/196047331.wem</Path>
+					<CachePath>SFX/MC_Landing 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="258656253" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 09.wav</ShortName>
+					<Path>Media/258656253.wem</Path>
+					<CachePath>SFX/MC_Landing 09_818F3B66.wem</CachePath>
+				</File>
+				<File Id="266785622" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 01.wav</ShortName>
+					<Path>Media/266785622.wem</Path>
+					<CachePath>SFX/MC_Landing 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="416503774" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 03.wav</ShortName>
+					<Path>Media/416503774.wem</Path>
+					<CachePath>SFX/MC_Landing 03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="571766968" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 14.wav</ShortName>
+					<Path>Media/571766968.wem</Path>
+					<CachePath>SFX/MC_Landing 14_818F3B66.wem</CachePath>
+				</File>
+				<File Id="638360863" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 02.wav</ShortName>
+					<Path>Media/638360863.wem</Path>
+					<CachePath>SFX/MC_Landing 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="717013744" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 05.wav</ShortName>
+					<Path>Media/717013744.wem</Path>
+					<CachePath>SFX/MC_Landing 05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="771734294" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 13.wav</ShortName>
+					<Path>Media/771734294.wem</Path>
+					<CachePath>SFX/MC_Landing 13_818F3B66.wem</CachePath>
+				</File>
+				<File Id="850890702" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 12.wav</ShortName>
+					<Path>Media/850890702.wem</Path>
+					<CachePath>SFX/MC_Landing 12_818F3B66.wem</CachePath>
+				</File>
+				<File Id="851324815" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 06.wav</ShortName>
+					<Path>Media/851324815.wem</Path>
+					<CachePath>SFX/MC_Landing 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="902782000" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 08.wav</ShortName>
+					<Path>Media/902782000.wem</Path>
+					<CachePath>SFX/MC_Landing 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1003162746" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 15.wav</ShortName>
+					<Path>Media/1003162746.wem</Path>
+					<CachePath>SFX/MC_Landing 15_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1050370674" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Landing 11.wav</ShortName>
+					<Path>Media/1050370674.wem</Path>
+					<CachePath>SFX/MC_Landing 11_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="610579102" Name="Play_MC_Landing" ObjectPath="\Events\Default Work Unit\Play_MC_Landing" GUID="{AC7E2225-85E3-4807-BFF8-80DED99E45DC}" DurationType="OneShot" DurationMin="0.32529166" DurationMax="0.53314584">
+					<MediaRefs>
+						<MediaRef Id="15967757"/>
+						<MediaRef Id="22608227"/>
+						<MediaRef Id="196047331"/>
+						<MediaRef Id="258656253"/>
+						<MediaRef Id="266785622"/>
+						<MediaRef Id="416503774"/>
+						<MediaRef Id="571766968"/>
+						<MediaRef Id="638360863"/>
+						<MediaRef Id="717013744"/>
+						<MediaRef Id="771734294"/>
+						<MediaRef Id="850890702"/>
+						<MediaRef Id="851324815"/>
+						<MediaRef Id="902782000"/>
+						<MediaRef Id="1003162746"/>
+						<MediaRef Id="1050370674"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="717910394" Type="Event" GUID="{E0B89560-6FC8-42D0-BC7B-CFC9A900BAE9}" Language="SFX" Hash="{2E63CC47-45C7-79CD-2EDF-BFF0C76CB171}">
+			<ObjectPath>Play_Fire_Punch_Light</ObjectPath>
+			<ShortName>Play_Fire_Punch_Light</ShortName>
+			<Path>Event/Play_Fire_Punch_Light.bnk</Path>
+			<Media>
+				<File Id="261823512" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 03.wav</ShortName>
+					<Path>Media/261823512.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="290497173" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 01.wav</ShortName>
+					<Path>Media/290497173.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="347530432" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 10.wav</ShortName>
+					<Path>Media/347530432.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="447769940" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 02.wav</ShortName>
+					<Path>Media/447769940.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="491449443" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 09.wav</ShortName>
+					<Path>Media/491449443.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 09_818F3B66.wem</CachePath>
+				</File>
+				<File Id="496620052" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 08.wav</ShortName>
+					<Path>Media/496620052.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="510777215" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 04.wav</ShortName>
+					<Path>Media/510777215.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="599728402" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 05.wav</ShortName>
+					<Path>Media/599728402.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="608377001" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 11.wav</ShortName>
+					<Path>Media/608377001.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="661579086" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 06.wav</ShortName>
+					<Path>Media/661579086.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="891666741" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light-001.wav</ShortName>
+					<Path>Media/891666741.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light-001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1058471317" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Fire_Punch_Light 07.wav</ShortName>
+					<Path>Media/1058471317.wem</Path>
+					<CachePath>SFX/MC_Fire_Punch_Light 07_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="717910394" Name="Play_Fire_Punch_Light" ObjectPath="\Events\Default Work Unit\Play_Fire_Punch_Light" GUID="{E0B89560-6FC8-42D0-BC7B-CFC9A900BAE9}" DurationType="OneShot" DurationMin="1.5483125" DurationMax="186.32202">
+					<MediaRefs>
+						<MediaRef Id="261823512"/>
+						<MediaRef Id="290497173"/>
+						<MediaRef Id="347530432"/>
+						<MediaRef Id="447769940"/>
+						<MediaRef Id="491449443"/>
+						<MediaRef Id="496620052"/>
+						<MediaRef Id="510777215"/>
+						<MediaRef Id="599728402"/>
+						<MediaRef Id="608377001"/>
+						<MediaRef Id="661579086"/>
+						<MediaRef Id="891666741"/>
+						<MediaRef Id="1058471317"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="803870886" Type="Event" GUID="{DCF5F564-0C9F-4B57-830B-8D6308DD96E1}" Language="SFX" Hash="{C6B697F1-0D53-9141-7CC0-E67728D51B0E}">
+			<ObjectPath>Stop_MusicTemple</ObjectPath>
+			<ShortName>Stop_MusicTemple</ShortName>
+			<Path>Event/Stop_MusicTemple.bnk</Path>
+			<Events>
+				<Event Id="803870886" Name="Stop_MusicTemple" ObjectPath="\Events\Default Work Unit\Stop_MusicTemple" GUID="{DCF5F564-0C9F-4B57-830B-8D6308DD96E1}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{3AAD94E4-54E4-589C-DD4E-8DDFE908BEB8}">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" ObjectPath="\Audio Devices\Default Work Unit\No_Output" GUID="{3D13684A-97B5-4C67-98F1-E91FA728059F}" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" ObjectPath="\Audio Devices\Default Work Unit\System" GUID="{5A1A181A-CAE2-4000-9916-ABD7A0C08133}" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus" GUID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+			</Busses>
+			<GameParameters>
+				<GameParameter Id="822163944" Name="SS_Air_RPM" ObjectPath="\Game Parameters\Factory Soundseed Air Game Syncs\SS_Air_RPM" GUID="{A34890AB-B9D5-4526-A64D-5290C43EF2DC}"/>
+				<GameParameter Id="1029930033" Name="SS_Air_Fury" ObjectPath="\Game Parameters\Factory Soundseed Air Game Syncs\SS_Air_Fury" GUID="{A2AE79DC-CA3A-46BA-9652-9986C322A87B}"/>
+				<GameParameter Id="1351367891" Name="SS_Air_Fear" ObjectPath="\Game Parameters\Factory Soundseed Air Game Syncs\SS_Air_Fear" GUID="{F72E0659-4346-4E1C-A1B1-DAB46A05101E}"/>
+				<GameParameter Id="2648548617" Name="SS_Air_Month" ObjectPath="\Game Parameters\Factory Soundseed Air Game Syncs\SS_Air_Month" GUID="{09E2B445-C4A3-447F-B3CA-818A1D925EF7}"/>
+				<GameParameter Id="3002758120" Name="SS_Air_Freefall" ObjectPath="\Game Parameters\Factory Soundseed Air Game Syncs\SS_Air_Freefall" GUID="{2F2DFE37-4F9E-4D94-83D8-53CCA39781AD}"/>
+				<GameParameter Id="3074696722" Name="SS_Air_Size" ObjectPath="\Game Parameters\Factory Soundseed Air Game Syncs\SS_Air_Size" GUID="{1329EBEF-A193-472E-A38C-64668B494879}"/>
+				<GameParameter Id="3203397129" Name="SS_Air_TimeOfDay" ObjectPath="\Game Parameters\Factory Soundseed Air Game Syncs\SS_Air_TimeOfDay" GUID="{536FA72C-8C7E-4C8B-AE03-EF34FDADC314}"/>
+				<GameParameter Id="3715662592" Name="SS_Air_Storm" ObjectPath="\Game Parameters\Factory Soundseed Air Game Syncs\SS_Air_Storm" GUID="{E93F8CDB-06D1-4737-ACAF-7CD44BBED783}"/>
+				<GameParameter Id="3847924954" Name="SS_Air_Presence" ObjectPath="\Game Parameters\Factory Soundseed Air Game Syncs\SS_Air_Presence" GUID="{E3B7811A-7B2F-490F-B44F-5FE51B468041}"/>
+				<GameParameter Id="4160247818" Name="SS_Air_Turbulence" ObjectPath="\Game Parameters\Factory Soundseed Air Game Syncs\SS_Air_Turbulence" GUID="{EDA87B19-73AA-40A0-9F19-2073606DB710}"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="3103015060" Name="MusicStates" ObjectPath="\States\Default Work Unit\MusicStates" GUID="{FACE4C42-1E54-4C9A-9DC0-91F1BA8C4D17}">
+					<States>
+						<State Id="221232726" Name="Lose" ObjectPath="\States\Default Work Unit\MusicStates\Lose" GUID="{6DEF5189-D84E-4ECB-8E42-4CB2B7852251}"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\MusicStates\None" GUID="{33B021F5-FE14-4C48-86B9-F00517AA9789}"/>
+						<State Id="979765101" Name="Win" ObjectPath="\States\Default Work Unit\MusicStates\Win" GUID="{57503683-A47D-41BD-85AF-F8285224ABE9}"/>
+						<State Id="2323193050" Name="Temple" ObjectPath="\States\Default Work Unit\MusicStates\Temple" GUID="{68790A90-DC46-43BC-A2E8-88CB90601BFF}"/>
+						<State Id="2764240573" Name="Combat" ObjectPath="\States\Default Work Unit\MusicStates\Combat" GUID="{FE0AEC1B-12C2-4E9C-B96D-D77596B5BA56}"/>
+						<State Id="3604647259" Name="MainMenu" ObjectPath="\States\Default Work Unit\MusicStates\MainMenu" GUID="{9A365F6C-1F26-418A-939B-4CCC628B23E3}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="4091764041" Name="AmbienceSwitch" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch" GUID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<Switches>
+						<Switch Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+			<AcousticTextures>
+				<AcousticTexture Id="504532776" Name="Brick" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Brick" GUID="{B086A5A9-F204-4C53-A838-BDB18B18F6D6}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="12"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="18"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="23"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="35"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="513139656" Name="Mountain" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Mountain" GUID="{C5933731-001A-4AB4-98DD-9B033A8C8EAB}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="0"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="841620460" Name="Concrete" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Concrete" GUID="{5CF81C00-2896-4AE0-AF7C-3080BDABA682}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="6"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="6"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="6"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="14"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="1755085759" Name="Wood_Deep" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Wood_Deep" GUID="{5246478E-C5DA-4E0C-A0DE-C98D1479529A}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="1"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="8"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="20"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="35"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="1873957695" Name="Anechoic" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Anechoic" GUID="{8B0AC232-02E2-4EDE-BEAC-FDD1A900E3ED}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="1970351858" Name="Fabric" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Fabric" GUID="{8381D532-DB6E-4EED-A7A3-BC7B0A0B8BA8}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="3"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="13"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="48"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="72"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2058049674" Name="Wood" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Wood" GUID="{1FFFBC96-6FE7-489E-BA6C-7C14A71391AE}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="32"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="25"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="20"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="35"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2412606308" Name="Carpet" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Carpet" GUID="{34227589-DC56-4260-96C4-B9F4B669092B}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="46"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="45"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="76"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2637588553" Name="Tile" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Tile" GUID="{A882DAC4-132A-47B7-BA9D-B9907BA29CC0}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="67"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="41"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="12"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="0"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2928161104" Name="Curtains" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Curtains" GUID="{F8E69E33-5C97-4968-B508-A1535F2D66E8}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="7"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="60"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="84"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="3195498748" Name="Cork_Tiles" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Cork_Tiles" GUID="{30D2C919-925F-4143-8906-3DBB3C4AE5E2}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="14"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="30"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="73"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="3670307564" Name="Drywall" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Drywall" GUID="{68A4E3F4-4C0B-4687-A8B8-A84DB93DBC8F}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="2"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="2"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="2"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="2"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="4168643977" Name="Acoustic_Banner" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Acoustic_Banner" GUID="{2F2D53F2-DACC-408E-8B88-98B1B52A26D6}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="37"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="4262522749" Name="Wood_Bright" ObjectPath="\Virtual Acoustics\Factory Acoustic Textures\Textures\Wood_Bright" GUID="{7B85D1E5-C1A2-4E63-9A13-CEC54B641ADC}">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="32"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="25"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="10"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="9"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+			</AcousticTextures>
+		</SoundBank>
+		<SoundBank Id="1621942774" Type="Event" GUID="{36B4828E-BC9E-4068-87D3-B099EA48A123}" Language="SFX" Hash="{5BD2CF8B-611F-DD0C-E6DE-0B6E8C022E9C}">
+			<ObjectPath>Set_Switch_Temple</ObjectPath>
+			<ShortName>Set_Switch_Temple</ShortName>
+			<Path>Event/Set_Switch_Temple.bnk</Path>
+			<Events>
+				<Event Id="1621942774" Name="Set_Switch_Temple" ObjectPath="\Events\Default Work Unit\Set_Switch_Temple" GUID="{36B4828E-BC9E-4068-87D3-B099EA48A123}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetSwitch>
+						<ActionSetSwitchEntry GroupId="4091764041" Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+					</ActionSetSwitch>
+				</Event>
+			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="4091764041" Name="AmbienceSwitch" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch" GUID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<Switches>
+						<Switch Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1782586601" Type="Event" GUID="{4ABBAEAE-DC78-4EEB-974F-365A4EA5FE37}" Language="SFX" Hash="{9D6EC6FB-9654-9F8A-04CF-C99DE5569CAA}">
+			<ObjectPath>Play_MC_Clogs</ObjectPath>
+			<ShortName>Play_MC_Clogs</ShortName>
+			<Path>Event/Play_MC_Clogs.bnk</Path>
+			<Media>
+				<File Id="3577322" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 03.wav</ShortName>
+					<Path>Media/3577322.wem</Path>
+					<CachePath>SFX/MC_Clog 03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="39660687" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 20.wav</ShortName>
+					<Path>Media/39660687.wem</Path>
+					<CachePath>SFX/MC_Clog 20_818F3B66.wem</CachePath>
+				</File>
+				<File Id="41299726" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 02.wav</ShortName>
+					<Path>Media/41299726.wem</Path>
+					<CachePath>SFX/MC_Clog 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="68114587" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 07.wav</ShortName>
+					<Path>Media/68114587.wem</Path>
+					<CachePath>SFX/MC_Clog 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="76914883" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 23.wav</ShortName>
+					<Path>Media/76914883.wem</Path>
+					<CachePath>SFX/MC_Clog 23_818F3B66.wem</CachePath>
+				</File>
+				<File Id="262358068" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 01.wav</ShortName>
+					<Path>Media/262358068.wem</Path>
+					<CachePath>SFX/MC_Clog 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="274925273" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 24.wav</ShortName>
+					<Path>Media/274925273.wem</Path>
+					<CachePath>SFX/MC_Clog 24_818F3B66.wem</CachePath>
+				</File>
+				<File Id="346223712" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 22.wav</ShortName>
+					<Path>Media/346223712.wem</Path>
+					<CachePath>SFX/MC_Clog 22_818F3B66.wem</CachePath>
+				</File>
+				<File Id="348915359" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 17.wav</ShortName>
+					<Path>Media/348915359.wem</Path>
+					<CachePath>SFX/MC_Clog 17_818F3B66.wem</CachePath>
+				</File>
+				<File Id="379141547" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 10.wav</ShortName>
+					<Path>Media/379141547.wem</Path>
+					<CachePath>SFX/MC_Clog 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="381135974" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 11.wav</ShortName>
+					<Path>Media/381135974.wem</Path>
+					<CachePath>SFX/MC_Clog 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="412349802" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 12.wav</ShortName>
+					<Path>Media/412349802.wem</Path>
+					<CachePath>SFX/MC_Clog 12_818F3B66.wem</CachePath>
+				</File>
+				<File Id="488973892" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 15.wav</ShortName>
+					<Path>Media/488973892.wem</Path>
+					<CachePath>SFX/MC_Clog 15_818F3B66.wem</CachePath>
+				</File>
+				<File Id="637297696" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 21.wav</ShortName>
+					<Path>Media/637297696.wem</Path>
+					<CachePath>SFX/MC_Clog 21_818F3B66.wem</CachePath>
+				</File>
+				<File Id="706491588" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 13.wav</ShortName>
+					<Path>Media/706491588.wem</Path>
+					<CachePath>SFX/MC_Clog 13_818F3B66.wem</CachePath>
+				</File>
+				<File Id="771426595" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 18.wav</ShortName>
+					<Path>Media/771426595.wem</Path>
+					<CachePath>SFX/MC_Clog 18_818F3B66.wem</CachePath>
+				</File>
+				<File Id="824077232" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 08.wav</ShortName>
+					<Path>Media/824077232.wem</Path>
+					<CachePath>SFX/MC_Clog 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="852145228" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 05.wav</ShortName>
+					<Path>Media/852145228.wem</Path>
+					<CachePath>SFX/MC_Clog 05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="923396457" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 16.wav</ShortName>
+					<Path>Media/923396457.wem</Path>
+					<CachePath>SFX/MC_Clog 16_818F3B66.wem</CachePath>
+				</File>
+				<File Id="953674632" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 25.wav</ShortName>
+					<Path>Media/953674632.wem</Path>
+					<CachePath>SFX/MC_Clog 25_818F3B66.wem</CachePath>
+				</File>
+				<File Id="995217711" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 04.wav</ShortName>
+					<Path>Media/995217711.wem</Path>
+					<CachePath>SFX/MC_Clog 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1012325697" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 06.wav</ShortName>
+					<Path>Media/1012325697.wem</Path>
+					<CachePath>SFX/MC_Clog 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1022048929" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 14.wav</ShortName>
+					<Path>Media/1022048929.wem</Path>
+					<CachePath>SFX/MC_Clog 14_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1050195417" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 19.wav</ShortName>
+					<Path>Media/1050195417.wem</Path>
+					<CachePath>SFX/MC_Clog 19_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1063318628" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 09.wav</ShortName>
+					<Path>Media/1063318628.wem</Path>
+					<CachePath>SFX/MC_Clog 09_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1782586601" Name="Play_MC_Clogs" ObjectPath="\Events\Default Work Unit\Play_MC_Clogs" GUID="{4ABBAEAE-DC78-4EEB-974F-365A4EA5FE37}" DurationType="OneShot" DurationMin="0.30477083" DurationMax="0.50691664">
+					<MediaRefs>
+						<MediaRef Id="3577322"/>
+						<MediaRef Id="39660687"/>
+						<MediaRef Id="41299726"/>
+						<MediaRef Id="68114587"/>
+						<MediaRef Id="76914883"/>
+						<MediaRef Id="262358068"/>
+						<MediaRef Id="274925273"/>
+						<MediaRef Id="346223712"/>
+						<MediaRef Id="348915359"/>
+						<MediaRef Id="379141547"/>
+						<MediaRef Id="381135974"/>
+						<MediaRef Id="412349802"/>
+						<MediaRef Id="488973892"/>
+						<MediaRef Id="637297696"/>
+						<MediaRef Id="706491588"/>
+						<MediaRef Id="771426595"/>
+						<MediaRef Id="824077232"/>
+						<MediaRef Id="852145228"/>
+						<MediaRef Id="923396457"/>
+						<MediaRef Id="953674632"/>
+						<MediaRef Id="995217711"/>
+						<MediaRef Id="1012325697"/>
+						<MediaRef Id="1022048929"/>
+						<MediaRef Id="1050195417"/>
+						<MediaRef Id="1063318628"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1787975916" Type="Event" GUID="{7EB19AB6-32E1-485B-B257-015B5CB5B299}" Language="SFX" Hash="{5B8B584C-3B45-D7F9-91AF-5F1C80DE9621}">
+			<ObjectPath>Play_Menu_Pause</ObjectPath>
+			<ShortName>Play_Menu_Pause</ShortName>
+			<Path>Event/Play_Menu_Pause.bnk</Path>
+			<Media>
+				<File Id="522833188" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>UI_Menu_Hover 01.wav</ShortName>
+					<Path>Media/522833188.wem</Path>
+					<CachePath>SFX/UI_Menu_Hover 01_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1787975916" Name="Play_Menu_Pause" ObjectPath="\Events\Default Work Unit\Play_Menu_Pause" GUID="{7EB19AB6-32E1-485B-B257-015B5CB5B299}" DurationType="OneShot" DurationMin="3.209104" DurationMax="3.209104">
+					<MediaRefs>
+						<MediaRef Id="522833188"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1802899322" Type="Event" GUID="{8E542A4D-1A8B-412E-9DD5-593467D85AF0}" Language="SFX" Hash="{507ED079-6542-A935-8B5D-3060FF3B6D11}">
+			<ObjectPath>Play_Ambience_Temple</ObjectPath>
+			<ShortName>Play_Ambience_Temple</ShortName>
+			<Path>Event/Play_Ambience_Temple.bnk</Path>
+			<Media>
+				<File Id="226612360" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_Temple-001.wav</ShortName>
+					<Path>Media/226612360.wem</Path>
+					<CachePath>SFX/Ambience_Temple-001_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1802899322" Name="Play_Ambience_Temple" ObjectPath="\Events\Default Work Unit\Play_Ambience_Temple" GUID="{8E542A4D-1A8B-412E-9DD5-593467D85AF0}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="226612360"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="4091764041" Name="AmbienceSwitch" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch" GUID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<Switches>
+						<Switch Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1806488964" Type="Event" GUID="{9AD18814-1C8E-4BEE-94D9-718D7AD7D177}" Language="SFX" Hash="{9B937261-DC1E-AF4A-B0D1-B6EEFB9B4E65}">
+			<ObjectPath>Play_Menu_Return</ObjectPath>
+			<ShortName>Play_Menu_Return</ShortName>
+			<Path>Event/Play_Menu_Return.bnk</Path>
+			<Media>
+				<File Id="800228396" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>UI_Menu_Return 02.wav</ShortName>
+					<Path>Media/800228396.wem</Path>
+					<CachePath>SFX/UI_Menu_Return 02_EE31EFEA.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1806488964" Name="Play_Menu_Return" ObjectPath="\Events\Default Work Unit\Play_Menu_Return" GUID="{9AD18814-1C8E-4BEE-94D9-718D7AD7D177}" DurationType="OneShot" DurationMin="0.84002084" DurationMax="0.84002084">
+					<MediaRefs>
+						<MediaRef Id="800228396"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1974761861" Type="Event" GUID="{83F17F6B-EDB1-4107-B0BA-70C1CF69175B}" Language="SFX" Hash="{9ECF0CAA-FA13-8B76-C545-1BDC12ED4B97}">
+			<ObjectPath>Play_MC_Grunt</ObjectPath>
+			<ShortName>Play_MC_Grunt</ShortName>
+			<Path>Event/Play_MC_Grunt.bnk</Path>
+			<Media>
+				<File Id="55245734" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 03.wav</ShortName>
+					<Path>Media/55245734.wem</Path>
+					<CachePath>SFX/MC_Grunt 03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="122800738" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 08.wav</ShortName>
+					<Path>Media/122800738.wem</Path>
+					<CachePath>SFX/MC_Grunt 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="166823804" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 11.wav</ShortName>
+					<Path>Media/166823804.wem</Path>
+					<CachePath>SFX/MC_Grunt 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="338986027" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 10.wav</ShortName>
+					<Path>Media/338986027.wem</Path>
+					<CachePath>SFX/MC_Grunt 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="360601165" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 04.wav</ShortName>
+					<Path>Media/360601165.wem</Path>
+					<CachePath>SFX/MC_Grunt 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="439821815" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 02.wav</ShortName>
+					<Path>Media/439821815.wem</Path>
+					<CachePath>SFX/MC_Grunt 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="648960608" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 13.wav</ShortName>
+					<Path>Media/648960608.wem</Path>
+					<CachePath>SFX/MC_Grunt 13_818F3B66.wem</CachePath>
+				</File>
+				<File Id="793272638" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 01.wav</ShortName>
+					<Path>Media/793272638.wem</Path>
+					<CachePath>SFX/MC_Grunt 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="804293470" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 12.wav</ShortName>
+					<Path>Media/804293470.wem</Path>
+					<CachePath>SFX/MC_Grunt 12_818F3B66.wem</CachePath>
+				</File>
+				<File Id="861197013" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 07.wav</ShortName>
+					<Path>Media/861197013.wem</Path>
+					<CachePath>SFX/MC_Grunt 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="914455416" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 09.wav</ShortName>
+					<Path>Media/914455416.wem</Path>
+					<CachePath>SFX/MC_Grunt 09_818F3B66.wem</CachePath>
+				</File>
+				<File Id="998704733" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 06.wav</ShortName>
+					<Path>Media/998704733.wem</Path>
+					<CachePath>SFX/MC_Grunt 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1058106340" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Grunt 05.wav</ShortName>
+					<Path>Media/1058106340.wem</Path>
+					<CachePath>SFX/MC_Grunt 05_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1974761861" Name="Play_MC_Grunt" ObjectPath="\Events\Default Work Unit\Play_MC_Grunt" GUID="{83F17F6B-EDB1-4107-B0BA-70C1CF69175B}" DurationType="OneShot" DurationMin="0.18075" DurationMax="0.2853125">
+					<MediaRefs>
+						<MediaRef Id="55245734"/>
+						<MediaRef Id="122800738"/>
+						<MediaRef Id="166823804"/>
+						<MediaRef Id="338986027"/>
+						<MediaRef Id="360601165"/>
+						<MediaRef Id="439821815"/>
+						<MediaRef Id="648960608"/>
+						<MediaRef Id="793272638"/>
+						<MediaRef Id="804293470"/>
+						<MediaRef Id="861197013"/>
+						<MediaRef Id="914455416"/>
+						<MediaRef Id="998704733"/>
+						<MediaRef Id="1058106340"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2015563950" Type="Event" GUID="{8DAD6A02-D93C-4C0B-BBDA-88936B090450}" Language="SFX" Hash="{4A18982D-A62F-67FB-D419-F65223773AB3}">
+			<ObjectPath>Stop_AmbienceMainMenu</ObjectPath>
+			<ShortName>Stop_AmbienceMainMenu</ShortName>
+			<Path>Event/Stop_AmbienceMainMenu.bnk</Path>
+			<Events>
+				<Event Id="2015563950" Name="Stop_AmbienceMainMenu" ObjectPath="\Events\Default Work Unit\Stop_AmbienceMainMenu" GUID="{8DAD6A02-D93C-4C0B-BBDA-88936B090450}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2084408958" Type="Event" GUID="{2F89F794-2087-496E-ADAD-C5E146013407}" Language="SFX" Hash="{051C0416-DDD6-8990-8D90-04B9E98EEEA7}">
+			<ObjectPath>Play_Music_Combat</ObjectPath>
+			<ShortName>Play_Music_Combat</ShortName>
+			<Path>Event/Play_Music_Combat.bnk</Path>
+			<Media>
+				<File Id="159398136" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Percussion_LoopV3.wav</ShortName>
+					<Path>Media/159398136.wem</Path>
+					<CachePath>SFX/Percussion_LoopV3_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2084408958" Name="Play_Music_Combat" ObjectPath="\Events\Default Work Unit\Play_Music_Combat" GUID="{2F89F794-2087-496E-ADAD-C5E146013407}" DurationType="OneShot" DurationMin="82" DurationMax="82">
+					<MediaRefs>
+						<MediaRef Id="159398136"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2102585688" Type="Event" GUID="{1D0C8480-CA59-47B3-AD80-FFD89566BF0F}" Language="SFX" Hash="{9688B146-5CBA-9983-5F82-233AA78073EA}">
+			<ObjectPath>Play_Music_States</ObjectPath>
+			<ShortName>Play_Music_States</ShortName>
+			<Path>Event/Play_Music_States.bnk</Path>
+			<Media>
+				<File Id="159398136" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Percussion_LoopV3.wav</ShortName>
+					<Path>Media/159398136.wem</Path>
+					<CachePath>SFX/Percussion_LoopV3_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="225153878" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Percussion_InitialV2.wav</ShortName>
+					<Path>Media/225153878.wem</Path>
+					<CachePath>SFX/Percussion_InitialV2_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2102585688" Name="Play_Music_States" ObjectPath="\Events\Default Work Unit\Play_Music_States" GUID="{1D0C8480-CA59-47B3-AD80-FFD89566BF0F}" DurationType="Infinite">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="3103015060" Id="2764240573" GUID="{FE0AEC1B-12C2-4E9C-B96D-D77596B5BA56}"/>
+							<MediaRefs>
+								<MediaRef Id="159398136"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="3103015060" Id="2323193050" GUID="{68790A90-DC46-43BC-A2E8-88CB90601BFF}"/>
+							<MediaRefs>
+								<MediaRef Id="225153878"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</Events>
+			<StateGroups>
+				<StateGroup Id="3103015060" Name="MusicStates" ObjectPath="\States\Default Work Unit\MusicStates" GUID="{FACE4C42-1E54-4C9A-9DC0-91F1BA8C4D17}">
+					<States>
+						<State Id="221232726" Name="Lose" ObjectPath="\States\Default Work Unit\MusicStates\Lose" GUID="{6DEF5189-D84E-4ECB-8E42-4CB2B7852251}"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\MusicStates\None" GUID="{33B021F5-FE14-4C48-86B9-F00517AA9789}"/>
+						<State Id="979765101" Name="Win" ObjectPath="\States\Default Work Unit\MusicStates\Win" GUID="{57503683-A47D-41BD-85AF-F8285224ABE9}"/>
+						<State Id="2323193050" Name="Temple" ObjectPath="\States\Default Work Unit\MusicStates\Temple" GUID="{68790A90-DC46-43BC-A2E8-88CB90601BFF}"/>
+						<State Id="2764240573" Name="Combat" ObjectPath="\States\Default Work Unit\MusicStates\Combat" GUID="{FE0AEC1B-12C2-4E9C-B96D-D77596B5BA56}"/>
+						<State Id="3604647259" Name="MainMenu" ObjectPath="\States\Default Work Unit\MusicStates\MainMenu" GUID="{9A365F6C-1F26-418A-939B-4CCC628B23E3}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+		<SoundBank Id="2167056030" Type="Event" GUID="{98D2E00B-4719-4A91-9FF6-362724D7D04E}" Language="SFX" Hash="{0AA484BE-8218-77C8-5AFF-01711E445C52}">
+			<ObjectPath>Play_Menu_Select</ObjectPath>
+			<ShortName>Play_Menu_Select</ShortName>
+			<Path>Event/Play_Menu_Select.bnk</Path>
+			<Media>
+				<File Id="507855445" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MenuUISample.wav</ShortName>
+					<Path>Media/507855445.wem</Path>
+					<CachePath>SFX/MenuUISample_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2167056030" Name="Play_Menu_Select" ObjectPath="\Events\Default Work Unit\Play_Menu_Select" GUID="{98D2E00B-4719-4A91-9FF6-362724D7D04E}" DurationType="OneShot" DurationMin="1.8226666" DurationMax="1.8226666">
+					<MediaRefs>
+						<MediaRef Id="507855445"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2297581844" Type="Event" GUID="{EBCAAE7F-3667-44CC-B08B-81A1788ECC95}" Language="SFX" Hash="{5973ED6A-C680-A15C-B07F-6DD2275063A3}">
+			<ObjectPath>Stop_Ambience_Temple</ObjectPath>
+			<ShortName>Stop_Ambience_Temple</ShortName>
+			<Path>Event/Stop_Ambience_Temple.bnk</Path>
+			<Events>
+				<Event Id="2297581844" Name="Stop_Ambience_Temple" ObjectPath="\Events\Default Work Unit\Stop_Ambience_Temple" GUID="{EBCAAE7F-3667-44CC-B08B-81A1788ECC95}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2466019335" Type="Event" GUID="{BDC31527-83C6-441D-B019-9DC9281481D1}" Language="SFX" Hash="{5C76CFE0-C5D5-EE40-6937-29ED2E3FE1E8}">
+			<ObjectPath>Play_MC_AirDash</ObjectPath>
+			<ShortName>Play_MC_AirDash</ShortName>
+			<Path>Event/Play_MC_AirDash.bnk</Path>
+			<Media>
+				<File Id="151285321" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_AirDash 3.wav</ShortName>
+					<Path>Media/151285321.wem</Path>
+					<CachePath>SFX/MC_AirDash 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="555677028" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_AirDash 7.wav</ShortName>
+					<Path>Media/555677028.wem</Path>
+					<CachePath>SFX/MC_AirDash 7_818F3B66.wem</CachePath>
+				</File>
+				<File Id="633924333" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_AirDash 6.wav</ShortName>
+					<Path>Media/633924333.wem</Path>
+					<CachePath>SFX/MC_AirDash 6_818F3B66.wem</CachePath>
+				</File>
+				<File Id="734248351" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_AirDash 4.wav</ShortName>
+					<Path>Media/734248351.wem</Path>
+					<CachePath>SFX/MC_AirDash 4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="766882256" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_AirDash 2.wav</ShortName>
+					<Path>Media/766882256.wem</Path>
+					<CachePath>SFX/MC_AirDash 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="812566634" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_AirDash 1.wav</ShortName>
+					<Path>Media/812566634.wem</Path>
+					<CachePath>SFX/MC_AirDash 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="826800292" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_AirDash 5.wav</ShortName>
+					<Path>Media/826800292.wem</Path>
+					<CachePath>SFX/MC_AirDash 5_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2466019335" Name="Play_MC_AirDash" ObjectPath="\Events\Default Work Unit\Play_MC_AirDash" GUID="{BDC31527-83C6-441D-B019-9DC9281481D1}" DurationType="OneShot" DurationMin="1.2517709" DurationMax="1.5663542">
+					<MediaRefs>
+						<MediaRef Id="151285321"/>
+						<MediaRef Id="555677028"/>
+						<MediaRef Id="633924333"/>
+						<MediaRef Id="734248351"/>
+						<MediaRef Id="766882256"/>
+						<MediaRef Id="812566634"/>
+						<MediaRef Id="826800292"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2706585737" Type="Event" GUID="{0BBDED07-1745-479D-B637-D2C52C83DF84}" Language="SFX" Hash="{5976ED08-077D-E58F-AC9A-90B0448ACBC4}">
+			<ObjectPath>Play_MC_Damage_Grunt</ObjectPath>
+			<ShortName>Play_MC_Damage_Grunt</ShortName>
+			<Path>Event/Play_MC_Damage_Grunt.bnk</Path>
+			<Media>
+				<File Id="156678454" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 11.wav</ShortName>
+					<Path>Media/156678454.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="239794276" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 01.wav</ShortName>
+					<Path>Media/239794276.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="266188950" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 13.wav</ShortName>
+					<Path>Media/266188950.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 13_818F3B66.wem</CachePath>
+				</File>
+				<File Id="288387637" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 07.wav</ShortName>
+					<Path>Media/288387637.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="408493388" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 08.wav</ShortName>
+					<Path>Media/408493388.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="493951429" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 12.wav</ShortName>
+					<Path>Media/493951429.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 12_818F3B66.wem</CachePath>
+				</File>
+				<File Id="512023118" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 02.wav</ShortName>
+					<Path>Media/512023118.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="545063135" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 05.wav</ShortName>
+					<Path>Media/545063135.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="627765510" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 10.wav</ShortName>
+					<Path>Media/627765510.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="662947305" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 03.wav</ShortName>
+					<Path>Media/662947305.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="725009035" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 04.wav</ShortName>
+					<Path>Media/725009035.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="915980609" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 06.wav</ShortName>
+					<Path>Media/915980609.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="999336614" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 09.wav</ShortName>
+					<Path>Media/999336614.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 09_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2706585737" Name="Play_MC_Damage_Grunt" ObjectPath="\Events\Default Work Unit\Play_MC_Damage_Grunt" GUID="{0BBDED07-1745-479D-B637-D2C52C83DF84}" DurationType="OneShot" DurationMin="0.32685417" DurationMax="0.90414584">
+					<MediaRefs>
+						<MediaRef Id="156678454"/>
+						<MediaRef Id="239794276"/>
+						<MediaRef Id="266188950"/>
+						<MediaRef Id="288387637"/>
+						<MediaRef Id="408493388"/>
+						<MediaRef Id="493951429"/>
+						<MediaRef Id="512023118"/>
+						<MediaRef Id="545063135"/>
+						<MediaRef Id="627765510"/>
+						<MediaRef Id="662947305"/>
+						<MediaRef Id="725009035"/>
+						<MediaRef Id="915980609"/>
+						<MediaRef Id="999336614"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2707314660" Type="Event" GUID="{6714A991-5933-4999-A96F-CC58E09294F0}" Language="SFX" Hash="{22DAE5DE-CBFA-B720-AF7A-3D01F35DB34E}">
+			<ObjectPath>Play_Lau_StyleSampleV2</ObjectPath>
+			<ShortName>Play_Lau_StyleSampleV2</ShortName>
+			<Path>Event/Play_Lau_StyleSampleV2.bnk</Path>
+			<Media>
+				<File Id="969868969" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Lau_StyleSampleV2.wav</ShortName>
+					<Path>Media/969868969.wem</Path>
+					<CachePath>SFX/Lau_StyleSampleV2_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2707314660" Name="Play_Lau_StyleSampleV2" ObjectPath="\Events\Default Work Unit\Play_Lau_StyleSampleV2" GUID="{6714A991-5933-4999-A96F-CC58E09294F0}" DurationType="OneShot" DurationMin="71.19501" DurationMax="71.19501">
+					<MediaRefs>
+						<MediaRef Id="969868969"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2920492637" Type="Event" GUID="{F10551EB-AB2A-4855-9DAA-CBB1E501660F}" Language="SFX" Hash="{40C42E5D-1F43-151E-53D3-F707309D7B39}">
+			<ObjectPath>Play_Music_Temple</ObjectPath>
+			<ShortName>Play_Music_Temple</ShortName>
+			<Path>Event/Play_Music_Temple.bnk</Path>
+			<Media>
+				<File Id="225153878" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Percussion_InitialV2.wav</ShortName>
+					<Path>Media/225153878.wem</Path>
+					<CachePath>SFX/Percussion_InitialV2_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="725940818" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Percussion_Middle_V2.wav</ShortName>
+					<Path>Media/725940818.wem</Path>
+					<CachePath>SFX/Percussion_Middle_V2_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2920492637" Name="Play_Music_Temple" ObjectPath="\Events\Default Work Unit\Play_Music_Temple" GUID="{F10551EB-AB2A-4855-9DAA-CBB1E501660F}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="225153878"/>
+						<MediaRef Id="725940818"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3017749058" Type="Event" GUID="{BA00D77E-F91F-4E93-8F3D-CDE04A0A3D5E}" Language="SFX" Hash="{FF1BD9D2-6119-1479-DF55-6C1E1EACD31D}">
+			<ObjectPath>Play_MC_Walk</ObjectPath>
+			<ShortName>Play_MC_Walk</ShortName>
+			<Path>Event/Play_MC_Walk.bnk</Path>
+			<Media>
+				<File Id="78192299" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 16.wav</ShortName>
+					<Path>Media/78192299.wem</Path>
+					<CachePath>SFX/MC_Walk 16_818F3B66.wem</CachePath>
+				</File>
+				<File Id="80037141" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 17.wav</ShortName>
+					<Path>Media/80037141.wem</Path>
+					<CachePath>SFX/MC_Walk 17_818F3B66.wem</CachePath>
+				</File>
+				<File Id="87733818" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 12.wav</ShortName>
+					<Path>Media/87733818.wem</Path>
+					<CachePath>SFX/MC_Walk 12_818F3B66.wem</CachePath>
+				</File>
+				<File Id="108371762" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 14.wav</ShortName>
+					<Path>Media/108371762.wem</Path>
+					<CachePath>SFX/MC_Walk 14_818F3B66.wem</CachePath>
+				</File>
+				<File Id="112156269" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 11.wav</ShortName>
+					<Path>Media/112156269.wem</Path>
+					<CachePath>SFX/MC_Walk 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="112537702" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 18.wav</ShortName>
+					<Path>Media/112537702.wem</Path>
+					<CachePath>SFX/MC_Walk 18_818F3B66.wem</CachePath>
+				</File>
+				<File Id="152273768" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 09.wav</ShortName>
+					<Path>Media/152273768.wem</Path>
+					<CachePath>SFX/MC_Walk 09_818F3B66.wem</CachePath>
+				</File>
+				<File Id="165478634" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 21.wav</ShortName>
+					<Path>Media/165478634.wem</Path>
+					<CachePath>SFX/MC_Walk 21_818F3B66.wem</CachePath>
+				</File>
+				<File Id="292943355" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 10.wav</ShortName>
+					<Path>Media/292943355.wem</Path>
+					<CachePath>SFX/MC_Walk 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="340416919" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 25.wav</ShortName>
+					<Path>Media/340416919.wem</Path>
+					<CachePath>SFX/MC_Walk 25_818F3B66.wem</CachePath>
+				</File>
+				<File Id="349025232" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 24.wav</ShortName>
+					<Path>Media/349025232.wem</Path>
+					<CachePath>SFX/MC_Walk 24_818F3B66.wem</CachePath>
+				</File>
+				<File Id="360136608" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 15.wav</ShortName>
+					<Path>Media/360136608.wem</Path>
+					<CachePath>SFX/MC_Walk 15_818F3B66.wem</CachePath>
+				</File>
+				<File Id="500125972" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 05.wav</ShortName>
+					<Path>Media/500125972.wem</Path>
+					<CachePath>SFX/MC_Walk 05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="517372410" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 04.wav</ShortName>
+					<Path>Media/517372410.wem</Path>
+					<CachePath>SFX/MC_Walk 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="571769058" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 02.wav</ShortName>
+					<Path>Media/571769058.wem</Path>
+					<CachePath>SFX/MC_Walk 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="575094445" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 23.wav</ShortName>
+					<Path>Media/575094445.wem</Path>
+					<CachePath>SFX/MC_Walk 23_818F3B66.wem</CachePath>
+				</File>
+				<File Id="578717253" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 08.wav</ShortName>
+					<Path>Media/578717253.wem</Path>
+					<CachePath>SFX/MC_Walk 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="660278269" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 22.wav</ShortName>
+					<Path>Media/660278269.wem</Path>
+					<CachePath>SFX/MC_Walk 22_818F3B66.wem</CachePath>
+				</File>
+				<File Id="660549744" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 01.wav</ShortName>
+					<Path>Media/660549744.wem</Path>
+					<CachePath>SFX/MC_Walk 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="761416565" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 07.wav</ShortName>
+					<Path>Media/761416565.wem</Path>
+					<CachePath>SFX/MC_Walk 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="868564320" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 13.wav</ShortName>
+					<Path>Media/868564320.wem</Path>
+					<CachePath>SFX/MC_Walk 13_818F3B66.wem</CachePath>
+				</File>
+				<File Id="925591313" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 06.wav</ShortName>
+					<Path>Media/925591313.wem</Path>
+					<CachePath>SFX/MC_Walk 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="978864678" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 20.wav</ShortName>
+					<Path>Media/978864678.wem</Path>
+					<CachePath>SFX/MC_Walk 20_818F3B66.wem</CachePath>
+				</File>
+				<File Id="979952240" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 19.wav</ShortName>
+					<Path>Media/979952240.wem</Path>
+					<CachePath>SFX/MC_Walk 19_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1054463190" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 03.wav</ShortName>
+					<Path>Media/1054463190.wem</Path>
+					<CachePath>SFX/MC_Walk 03_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3017749058" Name="Play_MC_Walk" ObjectPath="\Events\Default Work Unit\Play_MC_Walk" GUID="{BA00D77E-F91F-4E93-8F3D-CDE04A0A3D5E}" DurationType="OneShot" DurationMin="0.24635416" DurationMax="0.42483333">
+					<MediaRefs>
+						<MediaRef Id="78192299"/>
+						<MediaRef Id="80037141"/>
+						<MediaRef Id="87733818"/>
+						<MediaRef Id="108371762"/>
+						<MediaRef Id="112156269"/>
+						<MediaRef Id="112537702"/>
+						<MediaRef Id="152273768"/>
+						<MediaRef Id="165478634"/>
+						<MediaRef Id="292943355"/>
+						<MediaRef Id="340416919"/>
+						<MediaRef Id="349025232"/>
+						<MediaRef Id="360136608"/>
+						<MediaRef Id="500125972"/>
+						<MediaRef Id="517372410"/>
+						<MediaRef Id="571769058"/>
+						<MediaRef Id="575094445"/>
+						<MediaRef Id="578717253"/>
+						<MediaRef Id="660278269"/>
+						<MediaRef Id="660549744"/>
+						<MediaRef Id="761416565"/>
+						<MediaRef Id="868564320"/>
+						<MediaRef Id="925591313"/>
+						<MediaRef Id="978864678"/>
+						<MediaRef Id="979952240"/>
+						<MediaRef Id="1054463190"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3022734957" Type="Event" GUID="{5D2D7119-0476-466A-AE10-D2944F3C675E}" Language="SFX" Hash="{C4150BCB-D9A6-B431-C9C9-7225E1BB46A4}">
+			<ObjectPath>Play_MC_Jump</ObjectPath>
+			<ShortName>Play_MC_Jump</ShortName>
+			<Path>Event/Play_MC_Jump.bnk</Path>
+			<Media>
+				<File Id="79724574" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 02.wav</ShortName>
+					<Path>Media/79724574.wem</Path>
+					<CachePath>SFX/MC_Jump 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="181804427" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 01.wav</ShortName>
+					<Path>Media/181804427.wem</Path>
+					<CachePath>SFX/MC_Jump 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="184135054" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 11.wav</ShortName>
+					<Path>Media/184135054.wem</Path>
+					<CachePath>SFX/MC_Jump 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="262769796" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 10.wav</ShortName>
+					<Path>Media/262769796.wem</Path>
+					<CachePath>SFX/MC_Jump 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="267279292" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 08.wav</ShortName>
+					<Path>Media/267279292.wem</Path>
+					<CachePath>SFX/MC_Jump 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="524183924" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 12.wav</ShortName>
+					<Path>Media/524183924.wem</Path>
+					<CachePath>SFX/MC_Jump 12_818F3B66.wem</CachePath>
+				</File>
+				<File Id="529785072" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 09.wav</ShortName>
+					<Path>Media/529785072.wem</Path>
+					<CachePath>SFX/MC_Jump 09_818F3B66.wem</CachePath>
+				</File>
+				<File Id="591442462" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 07.wav</ShortName>
+					<Path>Media/591442462.wem</Path>
+					<CachePath>SFX/MC_Jump 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="603770516" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 13.wav</ShortName>
+					<Path>Media/603770516.wem</Path>
+					<CachePath>SFX/MC_Jump 13_818F3B66.wem</CachePath>
+				</File>
+				<File Id="805333481" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Jump 04.wav</ShortName>
+					<Path>Media/805333481.wem</Path>
+					<CachePath>SFX/MC_Jump 04_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3022734957" Name="Play_MC_Jump" ObjectPath="\Events\Default Work Unit\Play_MC_Jump" GUID="{5D2D7119-0476-466A-AE10-D2944F3C675E}" DurationType="OneShot" DurationMin="0.68222916" DurationMax="0.69739586">
+					<MediaRefs>
+						<MediaRef Id="79724574"/>
+						<MediaRef Id="181804427"/>
+						<MediaRef Id="184135054"/>
+						<MediaRef Id="262769796"/>
+						<MediaRef Id="267279292"/>
+						<MediaRef Id="524183924"/>
+						<MediaRef Id="529785072"/>
+						<MediaRef Id="591442462"/>
+						<MediaRef Id="603770516"/>
+						<MediaRef Id="805333481"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3325397748" Type="Event" GUID="{681CF314-0DE3-44E5-91CA-676D200731F8}" Language="SFX" Hash="{EB3FD2CC-04A3-CD5A-54CB-5CF05029F3BD}">
+			<ObjectPath>Play_StyleSampleV1</ObjectPath>
+			<ShortName>Play_StyleSampleV1</ShortName>
+			<Path>Event/Play_StyleSampleV1.bnk</Path>
+			<Media>
+				<File Id="786362866" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>StyleSampleV1.wav</ShortName>
+					<Path>Media/786362866.wem</Path>
+					<CachePath>SFX/StyleSampleV1_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3325397748" Name="Play_StyleSampleV1" ObjectPath="\Events\Default Work Unit\Play_StyleSampleV1" GUID="{681CF314-0DE3-44E5-91CA-676D200731F8}" DurationType="OneShot" DurationMin="72.45454" DurationMax="72.45454">
+					<MediaRefs>
+						<MediaRef Id="786362866"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3473134748" Type="Event" GUID="{ECB5DBD5-D47C-4E54-B30B-9D7485DF1393}" Language="SFX" Hash="{FD549E63-4E77-4D0A-7BD3-480B5E53E9CA}">
+			<ObjectPath>Stop_Music_Combat</ObjectPath>
+			<ShortName>Stop_Music_Combat</ShortName>
+			<Path>Event/Stop_Music_Combat.bnk</Path>
+			<Events>
+				<Event Id="3473134748" Name="Stop_Music_Combat" ObjectPath="\Events\Default Work Unit\Stop_Music_Combat" GUID="{ECB5DBD5-D47C-4E54-B30B-9D7485DF1393}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3494422306" Type="Event" GUID="{6AE0C648-E254-42CA-945C-06FC3584F81F}" Language="SFX" Hash="{7D2DD3DB-50AF-E80D-CC6A-8A5AFC6C6913}">
+			<ObjectPath>Stop_Music_States</ObjectPath>
+			<ShortName>Stop_Music_States</ShortName>
+			<Path>Event/Stop_Music_States.bnk</Path>
+			<Events>
+				<Event Id="3494422306" Name="Stop_Music_States" ObjectPath="\Events\Default Work Unit\Stop_Music_States" GUID="{6AE0C648-E254-42CA-945C-06FC3584F81F}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3509027692" Type="Event" GUID="{759785D8-0B64-4273-B200-0E8106D39EF3}" Language="SFX" Hash="{314546D4-D5A3-1A53-C4AB-684482BD6986}">
+			<ObjectPath>Play_AmbienceMainMenu</ObjectPath>
+			<ShortName>Play_AmbienceMainMenu</ShortName>
+			<Path>Event/Play_AmbienceMainMenu.bnk</Path>
+			<Media>
+				<File Id="580079521" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>AmbienceMainMenu.wav</ShortName>
+					<Path>Media/580079521.wem</Path>
+					<CachePath>SFX/AmbienceMainMenu_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3509027692" Name="Play_AmbienceMainMenu" ObjectPath="\Events\Default Work Unit\Play_AmbienceMainMenu" GUID="{759785D8-0B64-4273-B200-0E8106D39EF3}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="580079521"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="4091764041" Name="AmbienceSwitch" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch" GUID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<Switches>
+						<Switch Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="3702888062" Type="Event" GUID="{39BF62D6-2276-46DD-A51A-34012AD5E26A}" Language="SFX" Hash="{119778A2-0E65-88C2-BBEF-F6E3BCC46A42}">
+			<ObjectPath>Play_Menu_Start</ObjectPath>
+			<ShortName>Play_Menu_Start</ShortName>
+			<Path>Event/Play_Menu_Start.bnk</Path>
+			<Media>
+				<File Id="502801947" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>UI_Menu_Start 03.wav</ShortName>
+					<Path>Media/502801947.wem</Path>
+					<CachePath>SFX/UI_Menu_Start 03_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3702888062" Name="Play_Menu_Start" ObjectPath="\Events\Default Work Unit\Play_Menu_Start" GUID="{39BF62D6-2276-46DD-A51A-34012AD5E26A}" DurationType="OneShot" DurationMin="4.126875" DurationMax="4.126875">
+					<MediaRefs>
+						<MediaRef Id="502801947"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3723229655" Type="Event" GUID="{C2136CA2-0F61-42CB-83F5-629A15D850C9}" Language="SFX" Hash="{EA95787E-718F-DD59-9B73-620E6C4D97AC}">
+			<ObjectPath>Play_MenuUISample</ObjectPath>
+			<ShortName>Play_MenuUISample</ShortName>
+			<Path>Event/Play_MenuUISample.bnk</Path>
+			<Media>
+				<File Id="507855445" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MenuUISample.wav</ShortName>
+					<Path>Media/507855445.wem</Path>
+					<CachePath>SFX/MenuUISample_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3723229655" Name="Play_MenuUISample" ObjectPath="\Events\Default Work Unit\Play_MenuUISample" GUID="{C2136CA2-0F61-42CB-83F5-629A15D850C9}" DurationType="OneShot" DurationMin="1.8226666" DurationMax="1.8226666">
+					<MediaRefs>
+						<MediaRef Id="507855445"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3835684012" Type="Event" GUID="{F5834451-00F2-4153-9FE8-FFB7AF882CFC}" Language="SFX" Hash="{156AAAB9-CAB9-2E1C-0F31-901044312D53}">
+			<ObjectPath>Play_Menu_Hover</ObjectPath>
+			<ShortName>Play_Menu_Hover</ShortName>
+			<Path>Event/Play_Menu_Hover.bnk</Path>
+			<Media>
+				<File Id="334494302" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>UI_Menu_Hover 2.wav</ShortName>
+					<Path>Media/334494302.wem</Path>
+					<CachePath>SFX/UI_Menu_Hover 2_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3835684012" Name="Play_Menu_Hover" ObjectPath="\Events\Default Work Unit\Play_Menu_Hover" GUID="{F5834451-00F2-4153-9FE8-FFB7AF882CFC}" DurationType="OneShot" DurationMin="3.0310137" DurationMax="3.0310137">
+					<MediaRefs>
+						<MediaRef Id="334494302"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3902006527" Type="Event" GUID="{F3193873-8661-4940-9A41-6A24F5C400CE}" Language="SFX" Hash="{4B02394B-03CB-6EFD-10B5-3B1447E8BE86}">
+			<ObjectPath>Set_Switch_MainMenu</ObjectPath>
+			<ShortName>Set_Switch_MainMenu</ShortName>
+			<Path>Event/Set_Switch_MainMenu.bnk</Path>
+			<Events>
+				<Event Id="3902006527" Name="Set_Switch_MainMenu" ObjectPath="\Events\Default Work Unit\Set_Switch_MainMenu" GUID="{F3193873-8661-4940-9A41-6A24F5C400CE}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetSwitch>
+						<ActionSetSwitchEntry GroupId="4091764041" Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+					</ActionSetSwitch>
+				</Event>
+			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="4091764041" Name="AmbienceSwitch" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch" GUID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<Switches>
+						<Switch Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="4060900898" Type="Event" GUID="{ABF30E98-2CF8-4715-9A34-2C0BFB59BFB6}" Language="SFX" Hash="{F22F09B7-D435-E7CE-B509-8DC5C34D31A8}">
+			<ObjectPath>Play_Ambience_CombatArena</ObjectPath>
+			<ShortName>Play_Ambience_CombatArena</ShortName>
+			<Path>Event/Play_Ambience_CombatArena.bnk</Path>
+			<Media>
+				<File Id="877771546" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_CombatArena.wav</ShortName>
+					<Path>Media/877771546.wem</Path>
+					<CachePath>SFX/Ambience_CombatArena_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="4060900898" Name="Play_Ambience_CombatArena" ObjectPath="\Events\Default Work Unit\Play_Ambience_CombatArena" GUID="{ABF30E98-2CF8-4715-9A34-2C0BFB59BFB6}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="877771546"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="4091764041" Name="AmbienceSwitch" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch" GUID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<Switches>
+						<Switch Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="4067886198" Type="Event" GUID="{07D6F608-21B5-4208-BB59-EE64B5CE02A7}" Language="SFX" Hash="{3D46F392-E493-47B0-BE28-2DE8FE2AE1A1}">
+			<ObjectPath>Play_AmbienceSwitch</ObjectPath>
+			<ShortName>Play_AmbienceSwitch</ShortName>
+			<Path>Event/Play_AmbienceSwitch.bnk</Path>
+			<Media>
+				<File Id="226612360" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_Temple-001.wav</ShortName>
+					<Path>Media/226612360.wem</Path>
+					<CachePath>SFX/Ambience_Temple-001_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="580079521" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>AmbienceMainMenu.wav</ShortName>
+					<Path>Media/580079521.wem</Path>
+					<CachePath>SFX/AmbienceMainMenu_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="877771546" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_CombatArena.wav</ShortName>
+					<Path>Media/877771546.wem</Path>
+					<CachePath>SFX/Ambience_CombatArena_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="4067886198" Name="Play_AmbienceSwitch" ObjectPath="\Events\Default Work Unit\Play_AmbienceSwitch" GUID="{07D6F608-21B5-4208-BB59-EE64B5CE02A7}" DurationType="Infinite">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4091764041" Id="4048393986" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+							<MediaRefs>
+								<MediaRef Id="877771546"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4091764041" Id="3604647259" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="580079521"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4091764041" Id="2323193050" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+							<MediaRefs>
+								<MediaRef Id="226612360"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="4091764041" Name="AmbienceSwitch" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch" GUID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<Switches>
+						<Switch Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="4218048314" Type="Event" GUID="{2F7A9CC2-7D0C-42BC-9FD1-6B3063AF68F7}" Language="SFX" Hash="{85B31CE9-4816-2AD4-D22D-7780ED93F6F5}">
+			<ObjectPath>Play_MC_DoubleJump</ObjectPath>
+			<ShortName>Play_MC_DoubleJump</ShortName>
+			<Path>Event/Play_MC_DoubleJump.bnk</Path>
+			<Media>
+				<File Id="6528111" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 08.wav</ShortName>
+					<Path>Media/6528111.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="71791404" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 09.wav</ShortName>
+					<Path>Media/71791404.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 09_818F3B66.wem</CachePath>
+				</File>
+				<File Id="131693223" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 05.wav</ShortName>
+					<Path>Media/131693223.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="159639759" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 04.wav</ShortName>
+					<Path>Media/159639759.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="415777319" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 07.wav</ShortName>
+					<Path>Media/415777319.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="444232213" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 10.wav</ShortName>
+					<Path>Media/444232213.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="488815029" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 06.wav</ShortName>
+					<Path>Media/488815029.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="691741093" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 03.wav</ShortName>
+					<Path>Media/691741093.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="744905449" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 02.wav</ShortName>
+					<Path>Media/744905449.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1007270788" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 01.wav</ShortName>
+					<Path>Media/1007270788.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1062489904" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_DoubleJumpV2 11.wav</ShortName>
+					<Path>Media/1062489904.wem</Path>
+					<CachePath>SFX/MC_DoubleJumpV2 11_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="4218048314" Name="Play_MC_DoubleJump" ObjectPath="\Events\Default Work Unit\Play_MC_DoubleJump" GUID="{2F7A9CC2-7D0C-42BC-9FD1-6B3063AF68F7}" DurationType="OneShot" DurationMin="0.8181667" DurationMax="1.1001042">
+					<MediaRefs>
+						<MediaRef Id="6528111"/>
+						<MediaRef Id="71791404"/>
+						<MediaRef Id="131693223"/>
+						<MediaRef Id="159639759"/>
+						<MediaRef Id="415777319"/>
+						<MediaRef Id="444232213"/>
+						<MediaRef Id="488815029"/>
+						<MediaRef Id="691741093"/>
+						<MediaRef Id="744905449"/>
+						<MediaRef Id="1007270788"/>
+						<MediaRef Id="1062489904"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{DAE84A5C-F126-F477-17C0-B8489CCCED84}</FileHash>
+</SoundBanksInfo>

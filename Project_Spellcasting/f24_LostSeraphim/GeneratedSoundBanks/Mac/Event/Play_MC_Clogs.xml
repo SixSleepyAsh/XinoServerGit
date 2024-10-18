@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1782586601" Type="Event" GUID="{4ABBAEAE-DC78-4EEB-974F-365A4EA5FE37}" Language="SFX" Hash="{9D6EC6FB-9654-9F8A-04CF-C99DE5569CAA}">
+			<ObjectPath>Play_MC_Clogs</ObjectPath>
+			<ShortName>Play_MC_Clogs</ShortName>
+			<Path>Event/Play_MC_Clogs.bnk</Path>
+			<Media>
+				<File Id="3577322" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 03.wav</ShortName>
+					<Path>Media/3577322.wem</Path>
+					<CachePath>SFX/MC_Clog 03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="39660687" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 20.wav</ShortName>
+					<Path>Media/39660687.wem</Path>
+					<CachePath>SFX/MC_Clog 20_818F3B66.wem</CachePath>
+				</File>
+				<File Id="41299726" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 02.wav</ShortName>
+					<Path>Media/41299726.wem</Path>
+					<CachePath>SFX/MC_Clog 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="68114587" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 07.wav</ShortName>
+					<Path>Media/68114587.wem</Path>
+					<CachePath>SFX/MC_Clog 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="76914883" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 23.wav</ShortName>
+					<Path>Media/76914883.wem</Path>
+					<CachePath>SFX/MC_Clog 23_818F3B66.wem</CachePath>
+				</File>
+				<File Id="262358068" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 01.wav</ShortName>
+					<Path>Media/262358068.wem</Path>
+					<CachePath>SFX/MC_Clog 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="274925273" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 24.wav</ShortName>
+					<Path>Media/274925273.wem</Path>
+					<CachePath>SFX/MC_Clog 24_818F3B66.wem</CachePath>
+				</File>
+				<File Id="346223712" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 22.wav</ShortName>
+					<Path>Media/346223712.wem</Path>
+					<CachePath>SFX/MC_Clog 22_818F3B66.wem</CachePath>
+				</File>
+				<File Id="348915359" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 17.wav</ShortName>
+					<Path>Media/348915359.wem</Path>
+					<CachePath>SFX/MC_Clog 17_818F3B66.wem</CachePath>
+				</File>
+				<File Id="379141547" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 10.wav</ShortName>
+					<Path>Media/379141547.wem</Path>
+					<CachePath>SFX/MC_Clog 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="381135974" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 11.wav</ShortName>
+					<Path>Media/381135974.wem</Path>
+					<CachePath>SFX/MC_Clog 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="412349802" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 12.wav</ShortName>
+					<Path>Media/412349802.wem</Path>
+					<CachePath>SFX/MC_Clog 12_818F3B66.wem</CachePath>
+				</File>
+				<File Id="488973892" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 15.wav</ShortName>
+					<Path>Media/488973892.wem</Path>
+					<CachePath>SFX/MC_Clog 15_818F3B66.wem</CachePath>
+				</File>
+				<File Id="637297696" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 21.wav</ShortName>
+					<Path>Media/637297696.wem</Path>
+					<CachePath>SFX/MC_Clog 21_818F3B66.wem</CachePath>
+				</File>
+				<File Id="706491588" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 13.wav</ShortName>
+					<Path>Media/706491588.wem</Path>
+					<CachePath>SFX/MC_Clog 13_818F3B66.wem</CachePath>
+				</File>
+				<File Id="771426595" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 18.wav</ShortName>
+					<Path>Media/771426595.wem</Path>
+					<CachePath>SFX/MC_Clog 18_818F3B66.wem</CachePath>
+				</File>
+				<File Id="824077232" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 08.wav</ShortName>
+					<Path>Media/824077232.wem</Path>
+					<CachePath>SFX/MC_Clog 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="852145228" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 05.wav</ShortName>
+					<Path>Media/852145228.wem</Path>
+					<CachePath>SFX/MC_Clog 05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="923396457" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 16.wav</ShortName>
+					<Path>Media/923396457.wem</Path>
+					<CachePath>SFX/MC_Clog 16_818F3B66.wem</CachePath>
+				</File>
+				<File Id="953674632" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 25.wav</ShortName>
+					<Path>Media/953674632.wem</Path>
+					<CachePath>SFX/MC_Clog 25_818F3B66.wem</CachePath>
+				</File>
+				<File Id="995217711" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 04.wav</ShortName>
+					<Path>Media/995217711.wem</Path>
+					<CachePath>SFX/MC_Clog 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1012325697" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 06.wav</ShortName>
+					<Path>Media/1012325697.wem</Path>
+					<CachePath>SFX/MC_Clog 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1022048929" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 14.wav</ShortName>
+					<Path>Media/1022048929.wem</Path>
+					<CachePath>SFX/MC_Clog 14_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1050195417" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 19.wav</ShortName>
+					<Path>Media/1050195417.wem</Path>
+					<CachePath>SFX/MC_Clog 19_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1063318628" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Clog 09.wav</ShortName>
+					<Path>Media/1063318628.wem</Path>
+					<CachePath>SFX/MC_Clog 09_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1782586601" Name="Play_MC_Clogs" ObjectPath="\Events\Default Work Unit\Play_MC_Clogs" GUID="{4ABBAEAE-DC78-4EEB-974F-365A4EA5FE37}" DurationType="OneShot" DurationMin="0.30477083" DurationMax="0.50691664">
+					<MediaRefs>
+						<MediaRef Id="3577322"/>
+						<MediaRef Id="39660687"/>
+						<MediaRef Id="41299726"/>
+						<MediaRef Id="68114587"/>
+						<MediaRef Id="76914883"/>
+						<MediaRef Id="262358068"/>
+						<MediaRef Id="274925273"/>
+						<MediaRef Id="346223712"/>
+						<MediaRef Id="348915359"/>
+						<MediaRef Id="379141547"/>
+						<MediaRef Id="381135974"/>
+						<MediaRef Id="412349802"/>
+						<MediaRef Id="488973892"/>
+						<MediaRef Id="637297696"/>
+						<MediaRef Id="706491588"/>
+						<MediaRef Id="771426595"/>
+						<MediaRef Id="824077232"/>
+						<MediaRef Id="852145228"/>
+						<MediaRef Id="923396457"/>
+						<MediaRef Id="953674632"/>
+						<MediaRef Id="995217711"/>
+						<MediaRef Id="1012325697"/>
+						<MediaRef Id="1022048929"/>
+						<MediaRef Id="1050195417"/>
+						<MediaRef Id="1063318628"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{BD8F44B5-38BD-30E1-2149-457CB8FC09FE}</FileHash>
+</SoundBanksInfo>

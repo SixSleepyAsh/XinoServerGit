@@ -1,0 +1,120 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2466019335",
+    "Type": "Event",
+    "GUID": "{BDC31527-83C6-441D-B019-9DC9281481D1}",
+    "Language": "SFX",
+    "Hash": "{5C76CFE0-C5D5-EE40-6937-29ED2E3FE1E8}",
+    "ObjectPath": "Play_MC_AirDash",
+    "ShortName": "Play_MC_AirDash",
+    "Path": "Event/Play_MC_AirDash.bnk",
+    "Media": [
+     {
+      "Id": "151285321",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_AirDash 3.wav",
+      "Path": "Media/151285321.wem",
+      "CachePath": "SFX/MC_AirDash 3_818F3B66.wem"
+     },
+     {
+      "Id": "555677028",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_AirDash 7.wav",
+      "Path": "Media/555677028.wem",
+      "CachePath": "SFX/MC_AirDash 7_818F3B66.wem"
+     },
+     {
+      "Id": "633924333",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_AirDash 6.wav",
+      "Path": "Media/633924333.wem",
+      "CachePath": "SFX/MC_AirDash 6_818F3B66.wem"
+     },
+     {
+      "Id": "734248351",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_AirDash 4.wav",
+      "Path": "Media/734248351.wem",
+      "CachePath": "SFX/MC_AirDash 4_818F3B66.wem"
+     },
+     {
+      "Id": "766882256",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_AirDash 2.wav",
+      "Path": "Media/766882256.wem",
+      "CachePath": "SFX/MC_AirDash 2_818F3B66.wem"
+     },
+     {
+      "Id": "812566634",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_AirDash 1.wav",
+      "Path": "Media/812566634.wem",
+      "CachePath": "SFX/MC_AirDash 1_818F3B66.wem"
+     },
+     {
+      "Id": "826800292",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_AirDash 5.wav",
+      "Path": "Media/826800292.wem",
+      "CachePath": "SFX/MC_AirDash 5_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2466019335",
+      "Name": "Play_MC_AirDash",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MC_AirDash",
+      "GUID": "{BDC31527-83C6-441D-B019-9DC9281481D1}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.2517709",
+      "DurationMax": "1.5663542",
+      "MediaRefs": [
+       {
+        "Id": "151285321"
+       },
+       {
+        "Id": "555677028"
+       },
+       {
+        "Id": "633924333"
+       },
+       {
+        "Id": "734248351"
+       },
+       {
+        "Id": "766882256"
+       },
+       {
+        "Id": "812566634"
+       },
+       {
+        "Id": "826800292"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C1D289CA-DC73-2918-318A-94C1601B5AAB}"
+ }
+}

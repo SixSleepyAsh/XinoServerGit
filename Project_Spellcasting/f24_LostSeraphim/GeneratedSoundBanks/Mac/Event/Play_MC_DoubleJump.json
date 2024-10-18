@@ -1,0 +1,168 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "4218048314",
+    "Type": "Event",
+    "GUID": "{2F7A9CC2-7D0C-42BC-9FD1-6B3063AF68F7}",
+    "Language": "SFX",
+    "Hash": "{85B31CE9-4816-2AD4-D22D-7780ED93F6F5}",
+    "ObjectPath": "Play_MC_DoubleJump",
+    "ShortName": "Play_MC_DoubleJump",
+    "Path": "Event/Play_MC_DoubleJump.bnk",
+    "Media": [
+     {
+      "Id": "6528111",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 08.wav",
+      "Path": "Media/6528111.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 08_818F3B66.wem"
+     },
+     {
+      "Id": "71791404",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 09.wav",
+      "Path": "Media/71791404.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 09_818F3B66.wem"
+     },
+     {
+      "Id": "131693223",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 05.wav",
+      "Path": "Media/131693223.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 05_818F3B66.wem"
+     },
+     {
+      "Id": "159639759",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 04.wav",
+      "Path": "Media/159639759.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 04_818F3B66.wem"
+     },
+     {
+      "Id": "415777319",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 07.wav",
+      "Path": "Media/415777319.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 07_818F3B66.wem"
+     },
+     {
+      "Id": "444232213",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 10.wav",
+      "Path": "Media/444232213.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 10_818F3B66.wem"
+     },
+     {
+      "Id": "488815029",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 06.wav",
+      "Path": "Media/488815029.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 06_818F3B66.wem"
+     },
+     {
+      "Id": "691741093",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 03.wav",
+      "Path": "Media/691741093.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 03_818F3B66.wem"
+     },
+     {
+      "Id": "744905449",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 02.wav",
+      "Path": "Media/744905449.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 02_818F3B66.wem"
+     },
+     {
+      "Id": "1007270788",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 01.wav",
+      "Path": "Media/1007270788.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 01_818F3B66.wem"
+     },
+     {
+      "Id": "1062489904",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DoubleJumpV2 11.wav",
+      "Path": "Media/1062489904.wem",
+      "CachePath": "SFX/MC_DoubleJumpV2 11_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4218048314",
+      "Name": "Play_MC_DoubleJump",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MC_DoubleJump",
+      "GUID": "{2F7A9CC2-7D0C-42BC-9FD1-6B3063AF68F7}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.8181667",
+      "DurationMax": "1.1001042",
+      "MediaRefs": [
+       {
+        "Id": "6528111"
+       },
+       {
+        "Id": "71791404"
+       },
+       {
+        "Id": "131693223"
+       },
+       {
+        "Id": "159639759"
+       },
+       {
+        "Id": "415777319"
+       },
+       {
+        "Id": "444232213"
+       },
+       {
+        "Id": "488815029"
+       },
+       {
+        "Id": "691741093"
+       },
+       {
+        "Id": "744905449"
+       },
+       {
+        "Id": "1007270788"
+       },
+       {
+        "Id": "1062489904"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F6D829DD-1078-F825-ACBA-AD54000F6E0D}"
+ }
+}

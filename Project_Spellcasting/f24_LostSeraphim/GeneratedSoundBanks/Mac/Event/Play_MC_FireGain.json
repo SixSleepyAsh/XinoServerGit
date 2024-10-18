@@ -1,0 +1,132 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "372985744",
+    "Type": "Event",
+    "GUID": "{177E972E-E661-443A-8642-E6BA3AE53769}",
+    "Language": "SFX",
+    "Hash": "{548B1B2C-260B-B89F-0DF0-9F40D0660BE9}",
+    "ObjectPath": "Play_MC_FireGain",
+    "ShortName": "Play_MC_FireGain",
+    "Path": "Event/Play_MC_FireGain.bnk",
+    "Media": [
+     {
+      "Id": "115287200",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_FireGain 8.wav",
+      "Path": "Media/115287200.wem",
+      "CachePath": "SFX/MC_FireGain 8_818F3B66.wem"
+     },
+     {
+      "Id": "242019516",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_FireGain 3.wav",
+      "Path": "Media/242019516.wem",
+      "CachePath": "SFX/MC_FireGain 3_818F3B66.wem"
+     },
+     {
+      "Id": "275428952",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_FireGain 5.wav",
+      "Path": "Media/275428952.wem",
+      "CachePath": "SFX/MC_FireGain 5_818F3B66.wem"
+     },
+     {
+      "Id": "590221184",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_FireGain 1.wav",
+      "Path": "Media/590221184.wem",
+      "CachePath": "SFX/MC_FireGain 1_818F3B66.wem"
+     },
+     {
+      "Id": "619746523",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_FireGain 7.wav",
+      "Path": "Media/619746523.wem",
+      "CachePath": "SFX/MC_FireGain 7_818F3B66.wem"
+     },
+     {
+      "Id": "753974754",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_FireGain 2.wav",
+      "Path": "Media/753974754.wem",
+      "CachePath": "SFX/MC_FireGain 2_818F3B66.wem"
+     },
+     {
+      "Id": "868917601",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_FireGain 4.wav",
+      "Path": "Media/868917601.wem",
+      "CachePath": "SFX/MC_FireGain 4_818F3B66.wem"
+     },
+     {
+      "Id": "974968946",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_FireGain 6.wav",
+      "Path": "Media/974968946.wem",
+      "CachePath": "SFX/MC_FireGain 6_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "372985744",
+      "Name": "Play_MC_FireGain",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MC_FireGain",
+      "GUID": "{177E972E-E661-443A-8642-E6BA3AE53769}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4012083",
+      "DurationMax": "1.9066666",
+      "MediaRefs": [
+       {
+        "Id": "115287200"
+       },
+       {
+        "Id": "242019516"
+       },
+       {
+        "Id": "275428952"
+       },
+       {
+        "Id": "590221184"
+       },
+       {
+        "Id": "619746523"
+       },
+       {
+        "Id": "753974754"
+       },
+       {
+        "Id": "868917601"
+       },
+       {
+        "Id": "974968946"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6244ED00-5CF3-7077-4FE3-AABB373719D9}"
+ }
+}

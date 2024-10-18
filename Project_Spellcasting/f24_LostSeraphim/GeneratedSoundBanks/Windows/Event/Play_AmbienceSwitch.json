@@ -1,0 +1,129 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "4067886198",
+    "Type": "Event",
+    "GUID": "{07D6F608-21B5-4208-BB59-EE64B5CE02A7}",
+    "Language": "SFX",
+    "Hash": "{3D46F392-E493-47B0-BE28-2DE8FE2AE1A1}",
+    "ObjectPath": "Play_AmbienceSwitch",
+    "ShortName": "Play_AmbienceSwitch",
+    "Path": "Event/Play_AmbienceSwitch.bnk",
+    "Media": [
+     {
+      "Id": "226612360",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ambience_Temple-001.wav",
+      "Path": "Media/226612360.wem",
+      "CachePath": "SFX/Ambience_Temple-001_FBC78EF0.wem"
+     },
+     {
+      "Id": "580079521",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AmbienceMainMenu.wav",
+      "Path": "Media/580079521.wem",
+      "CachePath": "SFX/AmbienceMainMenu_FBC78EF0.wem"
+     },
+     {
+      "Id": "877771546",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ambience_CombatArena.wav",
+      "Path": "Media/877771546.wem",
+      "CachePath": "SFX/Ambience_CombatArena_FBC78EF0.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4067886198",
+      "Name": "Play_AmbienceSwitch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_AmbienceSwitch",
+      "GUID": "{07D6F608-21B5-4208-BB59-EE64B5CE02A7}",
+      "DurationType": "Infinite",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4091764041",
+         "Id": "4048393986",
+         "GUID": "{C35B205A-666D-4023-9C80-7AB64B98A337}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "877771546"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4091764041",
+         "Id": "3604647259",
+         "GUID": "{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "580079521"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4091764041",
+         "Id": "2323193050",
+         "GUID": "{58A168D1-2D59-471B-A216-53CC222733BA}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "226612360"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "4091764041",
+      "Name": "AmbienceSwitch",
+      "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceSwitch",
+      "GUID": "{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}",
+      "Switches": [
+       {
+        "Id": "2323193050",
+        "Name": "Temple",
+        "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceSwitch\\Temple",
+        "GUID": "{58A168D1-2D59-471B-A216-53CC222733BA}"
+       },
+       {
+        "Id": "3604647259",
+        "Name": "MainMenu",
+        "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceSwitch\\MainMenu",
+        "GUID": "{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"
+       },
+       {
+        "Id": "4048393986",
+        "Name": "CombatArena",
+        "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceSwitch\\CombatArena",
+        "GUID": "{C35B205A-666D-4023-9C80-7AB64B98A337}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BD922911-1CCA-29C1-54F9-EFE3679ADC96}"
+ }
+}

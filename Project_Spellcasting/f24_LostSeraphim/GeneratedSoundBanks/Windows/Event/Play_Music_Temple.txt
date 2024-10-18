@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2920492637	Play_Music_Temple			\Default Work Unit\Play_Music_Temple	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3103015060	MusicStates			\Default Work Unit\MusicStates	
+
+State	ID	Name	State Group			Notes
+	221232726	Lose	MusicStates			
+	748895195	None	MusicStates			
+	979765101	Win	MusicStates			
+	2323193050	Temple	MusicStates			
+	2764240573	Combat	MusicStates			
+	3604647259	MainMenu	MusicStates			
+

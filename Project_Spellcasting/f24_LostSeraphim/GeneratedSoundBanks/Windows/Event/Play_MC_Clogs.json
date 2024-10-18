@@ -1,0 +1,336 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "1782586601",
+    "Type": "Event",
+    "GUID": "{4ABBAEAE-DC78-4EEB-974F-365A4EA5FE37}",
+    "Language": "SFX",
+    "Hash": "{9D6EC6FB-9654-9F8A-04CF-C99DE5569CAA}",
+    "ObjectPath": "Play_MC_Clogs",
+    "ShortName": "Play_MC_Clogs",
+    "Path": "Event/Play_MC_Clogs.bnk",
+    "Media": [
+     {
+      "Id": "3577322",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 03.wav",
+      "Path": "Media/3577322.wem",
+      "CachePath": "SFX/MC_Clog 03_818F3B66.wem"
+     },
+     {
+      "Id": "39660687",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 20.wav",
+      "Path": "Media/39660687.wem",
+      "CachePath": "SFX/MC_Clog 20_818F3B66.wem"
+     },
+     {
+      "Id": "41299726",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 02.wav",
+      "Path": "Media/41299726.wem",
+      "CachePath": "SFX/MC_Clog 02_818F3B66.wem"
+     },
+     {
+      "Id": "68114587",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 07.wav",
+      "Path": "Media/68114587.wem",
+      "CachePath": "SFX/MC_Clog 07_818F3B66.wem"
+     },
+     {
+      "Id": "76914883",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 23.wav",
+      "Path": "Media/76914883.wem",
+      "CachePath": "SFX/MC_Clog 23_818F3B66.wem"
+     },
+     {
+      "Id": "262358068",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 01.wav",
+      "Path": "Media/262358068.wem",
+      "CachePath": "SFX/MC_Clog 01_818F3B66.wem"
+     },
+     {
+      "Id": "274925273",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 24.wav",
+      "Path": "Media/274925273.wem",
+      "CachePath": "SFX/MC_Clog 24_818F3B66.wem"
+     },
+     {
+      "Id": "346223712",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 22.wav",
+      "Path": "Media/346223712.wem",
+      "CachePath": "SFX/MC_Clog 22_818F3B66.wem"
+     },
+     {
+      "Id": "348915359",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 17.wav",
+      "Path": "Media/348915359.wem",
+      "CachePath": "SFX/MC_Clog 17_818F3B66.wem"
+     },
+     {
+      "Id": "379141547",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 10.wav",
+      "Path": "Media/379141547.wem",
+      "CachePath": "SFX/MC_Clog 10_818F3B66.wem"
+     },
+     {
+      "Id": "381135974",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 11.wav",
+      "Path": "Media/381135974.wem",
+      "CachePath": "SFX/MC_Clog 11_818F3B66.wem"
+     },
+     {
+      "Id": "412349802",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 12.wav",
+      "Path": "Media/412349802.wem",
+      "CachePath": "SFX/MC_Clog 12_818F3B66.wem"
+     },
+     {
+      "Id": "488973892",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 15.wav",
+      "Path": "Media/488973892.wem",
+      "CachePath": "SFX/MC_Clog 15_818F3B66.wem"
+     },
+     {
+      "Id": "637297696",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 21.wav",
+      "Path": "Media/637297696.wem",
+      "CachePath": "SFX/MC_Clog 21_818F3B66.wem"
+     },
+     {
+      "Id": "706491588",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 13.wav",
+      "Path": "Media/706491588.wem",
+      "CachePath": "SFX/MC_Clog 13_818F3B66.wem"
+     },
+     {
+      "Id": "771426595",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 18.wav",
+      "Path": "Media/771426595.wem",
+      "CachePath": "SFX/MC_Clog 18_818F3B66.wem"
+     },
+     {
+      "Id": "824077232",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 08.wav",
+      "Path": "Media/824077232.wem",
+      "CachePath": "SFX/MC_Clog 08_818F3B66.wem"
+     },
+     {
+      "Id": "852145228",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 05.wav",
+      "Path": "Media/852145228.wem",
+      "CachePath": "SFX/MC_Clog 05_818F3B66.wem"
+     },
+     {
+      "Id": "923396457",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 16.wav",
+      "Path": "Media/923396457.wem",
+      "CachePath": "SFX/MC_Clog 16_818F3B66.wem"
+     },
+     {
+      "Id": "953674632",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 25.wav",
+      "Path": "Media/953674632.wem",
+      "CachePath": "SFX/MC_Clog 25_818F3B66.wem"
+     },
+     {
+      "Id": "995217711",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 04.wav",
+      "Path": "Media/995217711.wem",
+      "CachePath": "SFX/MC_Clog 04_818F3B66.wem"
+     },
+     {
+      "Id": "1012325697",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 06.wav",
+      "Path": "Media/1012325697.wem",
+      "CachePath": "SFX/MC_Clog 06_818F3B66.wem"
+     },
+     {
+      "Id": "1022048929",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 14.wav",
+      "Path": "Media/1022048929.wem",
+      "CachePath": "SFX/MC_Clog 14_818F3B66.wem"
+     },
+     {
+      "Id": "1050195417",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 19.wav",
+      "Path": "Media/1050195417.wem",
+      "CachePath": "SFX/MC_Clog 19_818F3B66.wem"
+     },
+     {
+      "Id": "1063318628",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Clog 09.wav",
+      "Path": "Media/1063318628.wem",
+      "CachePath": "SFX/MC_Clog 09_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1782586601",
+      "Name": "Play_MC_Clogs",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MC_Clogs",
+      "GUID": "{4ABBAEAE-DC78-4EEB-974F-365A4EA5FE37}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.30477083",
+      "DurationMax": "0.50691664",
+      "MediaRefs": [
+       {
+        "Id": "3577322"
+       },
+       {
+        "Id": "39660687"
+       },
+       {
+        "Id": "41299726"
+       },
+       {
+        "Id": "68114587"
+       },
+       {
+        "Id": "76914883"
+       },
+       {
+        "Id": "262358068"
+       },
+       {
+        "Id": "274925273"
+       },
+       {
+        "Id": "346223712"
+       },
+       {
+        "Id": "348915359"
+       },
+       {
+        "Id": "379141547"
+       },
+       {
+        "Id": "381135974"
+       },
+       {
+        "Id": "412349802"
+       },
+       {
+        "Id": "488973892"
+       },
+       {
+        "Id": "637297696"
+       },
+       {
+        "Id": "706491588"
+       },
+       {
+        "Id": "771426595"
+       },
+       {
+        "Id": "824077232"
+       },
+       {
+        "Id": "852145228"
+       },
+       {
+        "Id": "923396457"
+       },
+       {
+        "Id": "953674632"
+       },
+       {
+        "Id": "995217711"
+       },
+       {
+        "Id": "1012325697"
+       },
+       {
+        "Id": "1022048929"
+       },
+       {
+        "Id": "1050195417"
+       },
+       {
+        "Id": "1063318628"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{46863080-56AC-A90D-A833-21E4B33D43A8}"
+ }
+}

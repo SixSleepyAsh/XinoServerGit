@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2084408958",
+    "Type": "Event",
+    "GUID": "{2F89F794-2087-496E-ADAD-C5E146013407}",
+    "Language": "SFX",
+    "Hash": "{051C0416-DDD6-8990-8D90-04B9E98EEEA7}",
+    "ObjectPath": "Play_Music_Combat",
+    "ShortName": "Play_Music_Combat",
+    "Path": "Event/Play_Music_Combat.bnk",
+    "Media": [
+     {
+      "Id": "159398136",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Percussion_LoopV3.wav",
+      "Path": "Media/159398136.wem",
+      "CachePath": "SFX/Percussion_LoopV3_FBC78EF0.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2084408958",
+      "Name": "Play_Music_Combat",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Music_Combat",
+      "GUID": "{2F89F794-2087-496E-ADAD-C5E146013407}",
+      "DurationType": "OneShot",
+      "DurationMin": "82",
+      "DurationMax": "82",
+      "MediaRefs": [
+       {
+        "Id": "159398136"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B4950563-BB10-D60F-BAE2-55494A29EA47}"
+ }
+}

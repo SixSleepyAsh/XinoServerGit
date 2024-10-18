@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "589513996",
+    "Type": "Event",
+    "GUID": "{A1AFC676-F389-4065-B740-3D82FF8A2474}",
+    "Language": "SFX",
+    "Hash": "{63E6D790-267A-5EAE-5BBD-97781A3CA644}",
+    "ObjectPath": "Stop_AmbienceSwitch",
+    "ShortName": "Stop_AmbienceSwitch",
+    "Path": "Event/Stop_AmbienceSwitch.bnk",
+    "Events": [
+     {
+      "Id": "589513996",
+      "Name": "Stop_AmbienceSwitch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Stop_AmbienceSwitch",
+      "GUID": "{A1AFC676-F389-4065-B740-3D82FF8A2474}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{80A45399-F745-5C8E-0603-6A5241530DC1}"
+ }
+}

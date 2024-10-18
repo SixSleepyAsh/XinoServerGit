@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "3473134748",
+    "Type": "Event",
+    "GUID": "{ECB5DBD5-D47C-4E54-B30B-9D7485DF1393}",
+    "Language": "SFX",
+    "Hash": "{FD549E63-4E77-4D0A-7BD3-480B5E53E9CA}",
+    "ObjectPath": "Stop_Music_Combat",
+    "ShortName": "Stop_Music_Combat",
+    "Path": "Event/Stop_Music_Combat.bnk",
+    "Events": [
+     {
+      "Id": "3473134748",
+      "Name": "Stop_Music_Combat",
+      "ObjectPath": "\\Events\\Default Work Unit\\Stop_Music_Combat",
+      "GUID": "{ECB5DBD5-D47C-4E54-B30B-9D7485DF1393}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D2E5F909-982B-93A8-0B83-C06E89E6849E}"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2920492637",
+    "Type": "Event",
+    "GUID": "{F10551EB-AB2A-4855-9DAA-CBB1E501660F}",
+    "Language": "SFX",
+    "Hash": "{40C42E5D-1F43-151E-53D3-F707309D7B39}",
+    "ObjectPath": "Play_Music_Temple",
+    "ShortName": "Play_Music_Temple",
+    "Path": "Event/Play_Music_Temple.bnk",
+    "Media": [
+     {
+      "Id": "225153878",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Percussion_InitialV2.wav",
+      "Path": "Media/225153878.wem",
+      "CachePath": "SFX/Percussion_InitialV2_FBC78EF0.wem"
+     },
+     {
+      "Id": "725940818",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Percussion_Middle_V2.wav",
+      "Path": "Media/725940818.wem",
+      "CachePath": "SFX/Percussion_Middle_V2_FBC78EF0.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2920492637",
+      "Name": "Play_Music_Temple",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Music_Temple",
+      "GUID": "{F10551EB-AB2A-4855-9DAA-CBB1E501660F}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "225153878"
+       },
+       {
+        "Id": "725940818"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5079C99A-B6DF-56FD-EB97-0B6CB1DF4D7A}"
+ }
+}

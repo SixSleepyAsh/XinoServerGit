@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{907389AB-36C3-45F6-A69C-8A4DB315F927}" SchemaVersion="119">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{907389AB-36C3-45F6-A69C-8A4DB315F927}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="AmbienceSwitch" ID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<ChildrenList>
+						<Switch Name="MainMenu" ID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Name="Temple" ID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Name="CombatArena" ID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

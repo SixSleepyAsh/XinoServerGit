@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2707314660" Type="Event" GUID="{6714A991-5933-4999-A96F-CC58E09294F0}" Language="SFX" Hash="{22DAE5DE-CBFA-B720-AF7A-3D01F35DB34E}">
+			<ObjectPath>Play_Lau_StyleSampleV2</ObjectPath>
+			<ShortName>Play_Lau_StyleSampleV2</ShortName>
+			<Path>Event/Play_Lau_StyleSampleV2.bnk</Path>
+			<Media>
+				<File Id="969868969" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Lau_StyleSampleV2.wav</ShortName>
+					<Path>Media/969868969.wem</Path>
+					<CachePath>SFX/Lau_StyleSampleV2_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2707314660" Name="Play_Lau_StyleSampleV2" ObjectPath="\Events\Default Work Unit\Play_Lau_StyleSampleV2" GUID="{6714A991-5933-4999-A96F-CC58E09294F0}" DurationType="OneShot" DurationMin="71.19501" DurationMax="71.19501">
+					<MediaRefs>
+						<MediaRef Id="969868969"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{C9D721F5-9A2B-AAA0-5E50-57C5754D8433}</FileHash>
+</SoundBanksInfo>

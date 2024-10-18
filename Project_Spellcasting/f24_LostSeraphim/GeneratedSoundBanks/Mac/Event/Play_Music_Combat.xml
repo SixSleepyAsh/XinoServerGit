@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2084408958" Type="Event" GUID="{2F89F794-2087-496E-ADAD-C5E146013407}" Language="SFX" Hash="{051C0416-DDD6-8990-8D90-04B9E98EEEA7}">
+			<ObjectPath>Play_Music_Combat</ObjectPath>
+			<ShortName>Play_Music_Combat</ShortName>
+			<Path>Event/Play_Music_Combat.bnk</Path>
+			<Media>
+				<File Id="159398136" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Percussion_LoopV3.wav</ShortName>
+					<Path>Media/159398136.wem</Path>
+					<CachePath>SFX/Percussion_LoopV3_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2084408958" Name="Play_Music_Combat" ObjectPath="\Events\Default Work Unit\Play_Music_Combat" GUID="{2F89F794-2087-496E-ADAD-C5E146013407}" DurationType="OneShot" DurationMin="82" DurationMax="82">
+					<MediaRefs>
+						<MediaRef Id="159398136"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{B1166382-A981-8086-B178-BF6F305523E1}</FileHash>
+</SoundBanksInfo>

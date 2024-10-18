@@ -1,0 +1,156 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "3022734957",
+    "Type": "Event",
+    "GUID": "{5D2D7119-0476-466A-AE10-D2944F3C675E}",
+    "Language": "SFX",
+    "Hash": "{C4150BCB-D9A6-B431-C9C9-7225E1BB46A4}",
+    "ObjectPath": "Play_MC_Jump",
+    "ShortName": "Play_MC_Jump",
+    "Path": "Event/Play_MC_Jump.bnk",
+    "Media": [
+     {
+      "Id": "79724574",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Jump 02.wav",
+      "Path": "Media/79724574.wem",
+      "CachePath": "SFX/MC_Jump 02_818F3B66.wem"
+     },
+     {
+      "Id": "181804427",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Jump 01.wav",
+      "Path": "Media/181804427.wem",
+      "CachePath": "SFX/MC_Jump 01_818F3B66.wem"
+     },
+     {
+      "Id": "184135054",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Jump 11.wav",
+      "Path": "Media/184135054.wem",
+      "CachePath": "SFX/MC_Jump 11_818F3B66.wem"
+     },
+     {
+      "Id": "262769796",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Jump 10.wav",
+      "Path": "Media/262769796.wem",
+      "CachePath": "SFX/MC_Jump 10_818F3B66.wem"
+     },
+     {
+      "Id": "267279292",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Jump 08.wav",
+      "Path": "Media/267279292.wem",
+      "CachePath": "SFX/MC_Jump 08_818F3B66.wem"
+     },
+     {
+      "Id": "524183924",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Jump 12.wav",
+      "Path": "Media/524183924.wem",
+      "CachePath": "SFX/MC_Jump 12_818F3B66.wem"
+     },
+     {
+      "Id": "529785072",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Jump 09.wav",
+      "Path": "Media/529785072.wem",
+      "CachePath": "SFX/MC_Jump 09_818F3B66.wem"
+     },
+     {
+      "Id": "591442462",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Jump 07.wav",
+      "Path": "Media/591442462.wem",
+      "CachePath": "SFX/MC_Jump 07_818F3B66.wem"
+     },
+     {
+      "Id": "603770516",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Jump 13.wav",
+      "Path": "Media/603770516.wem",
+      "CachePath": "SFX/MC_Jump 13_818F3B66.wem"
+     },
+     {
+      "Id": "805333481",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Jump 04.wav",
+      "Path": "Media/805333481.wem",
+      "CachePath": "SFX/MC_Jump 04_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3022734957",
+      "Name": "Play_MC_Jump",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MC_Jump",
+      "GUID": "{5D2D7119-0476-466A-AE10-D2944F3C675E}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.68222916",
+      "DurationMax": "0.69739586",
+      "MediaRefs": [
+       {
+        "Id": "79724574"
+       },
+       {
+        "Id": "181804427"
+       },
+       {
+        "Id": "184135054"
+       },
+       {
+        "Id": "262769796"
+       },
+       {
+        "Id": "267279292"
+       },
+       {
+        "Id": "524183924"
+       },
+       {
+        "Id": "529785072"
+       },
+       {
+        "Id": "591442462"
+       },
+       {
+        "Id": "603770516"
+       },
+       {
+        "Id": "805333481"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{22DB2121-DC11-5F04-4BB5-D9B38E618613}"
+ }
+}

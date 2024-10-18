@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="3325397748" Type="Event" GUID="{681CF314-0DE3-44E5-91CA-676D200731F8}" Language="SFX" Hash="{EB3FD2CC-04A3-CD5A-54CB-5CF05029F3BD}">
+			<ObjectPath>Play_StyleSampleV1</ObjectPath>
+			<ShortName>Play_StyleSampleV1</ShortName>
+			<Path>Event/Play_StyleSampleV1.bnk</Path>
+			<Media>
+				<File Id="786362866" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>StyleSampleV1.wav</ShortName>
+					<Path>Media/786362866.wem</Path>
+					<CachePath>SFX/StyleSampleV1_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3325397748" Name="Play_StyleSampleV1" ObjectPath="\Events\Default Work Unit\Play_StyleSampleV1" GUID="{681CF314-0DE3-44E5-91CA-676D200731F8}" DurationType="OneShot" DurationMin="72.45454" DurationMax="72.45454">
+					<MediaRefs>
+						<MediaRef Id="786362866"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{B51E5101-A6C8-6454-DB42-3E1BB37BD68F}</FileHash>
+</SoundBanksInfo>

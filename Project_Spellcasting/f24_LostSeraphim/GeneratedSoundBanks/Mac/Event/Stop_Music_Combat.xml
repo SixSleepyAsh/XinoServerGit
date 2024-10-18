@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="3473134748" Type="Event" GUID="{ECB5DBD5-D47C-4E54-B30B-9D7485DF1393}" Language="SFX" Hash="{FD549E63-4E77-4D0A-7BD3-480B5E53E9CA}">
+			<ObjectPath>Stop_Music_Combat</ObjectPath>
+			<ShortName>Stop_Music_Combat</ShortName>
+			<Path>Event/Stop_Music_Combat.bnk</Path>
+			<Events>
+				<Event Id="3473134748" Name="Stop_Music_Combat" ObjectPath="\Events\Default Work Unit\Stop_Music_Combat" GUID="{ECB5DBD5-D47C-4E54-B30B-9D7485DF1393}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{168B97DF-9803-6815-C57F-4400139EF098}</FileHash>
+</SoundBanksInfo>

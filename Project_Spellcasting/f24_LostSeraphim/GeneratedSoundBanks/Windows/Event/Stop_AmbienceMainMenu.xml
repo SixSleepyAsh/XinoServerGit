@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2015563950" Type="Event" GUID="{8DAD6A02-D93C-4C0B-BBDA-88936B090450}" Language="SFX" Hash="{4A18982D-A62F-67FB-D419-F65223773AB3}">
+			<ObjectPath>Stop_AmbienceMainMenu</ObjectPath>
+			<ShortName>Stop_AmbienceMainMenu</ShortName>
+			<Path>Event/Stop_AmbienceMainMenu.bnk</Path>
+			<Events>
+				<Event Id="2015563950" Name="Stop_AmbienceMainMenu" ObjectPath="\Events\Default Work Unit\Stop_AmbienceMainMenu" GUID="{8DAD6A02-D93C-4C0B-BBDA-88936B090450}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{3D4BEC21-8D8D-3A88-A97B-4AD11E163666}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1787975916" Type="Event" GUID="{7EB19AB6-32E1-485B-B257-015B5CB5B299}" Language="SFX" Hash="{5B8B584C-3B45-D7F9-91AF-5F1C80DE9621}">
+			<ObjectPath>Play_Menu_Pause</ObjectPath>
+			<ShortName>Play_Menu_Pause</ShortName>
+			<Path>Event/Play_Menu_Pause.bnk</Path>
+			<Media>
+				<File Id="522833188" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>UI_Menu_Hover 01.wav</ShortName>
+					<Path>Media/522833188.wem</Path>
+					<CachePath>SFX/UI_Menu_Hover 01_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1787975916" Name="Play_Menu_Pause" ObjectPath="\Events\Default Work Unit\Play_Menu_Pause" GUID="{7EB19AB6-32E1-485B-B257-015B5CB5B299}" DurationType="OneShot" DurationMin="3.209104" DurationMax="3.209104">
+					<MediaRefs>
+						<MediaRef Id="522833188"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{429D7655-7B1C-E8D9-1CA4-3F23720A7B95}</FileHash>
+</SoundBanksInfo>

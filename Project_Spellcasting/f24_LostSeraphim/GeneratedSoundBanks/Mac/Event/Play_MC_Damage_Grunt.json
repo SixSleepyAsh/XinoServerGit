@@ -1,0 +1,192 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2706585737",
+    "Type": "Event",
+    "GUID": "{0BBDED07-1745-479D-B637-D2C52C83DF84}",
+    "Language": "SFX",
+    "Hash": "{5976ED08-077D-E58F-AC9A-90B0448ACBC4}",
+    "ObjectPath": "Play_MC_Damage_Grunt",
+    "ShortName": "Play_MC_Damage_Grunt",
+    "Path": "Event/Play_MC_Damage_Grunt.bnk",
+    "Media": [
+     {
+      "Id": "156678454",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 11.wav",
+      "Path": "Media/156678454.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 11_818F3B66.wem"
+     },
+     {
+      "Id": "239794276",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 01.wav",
+      "Path": "Media/239794276.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 01_818F3B66.wem"
+     },
+     {
+      "Id": "266188950",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 13.wav",
+      "Path": "Media/266188950.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 13_818F3B66.wem"
+     },
+     {
+      "Id": "288387637",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 07.wav",
+      "Path": "Media/288387637.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 07_818F3B66.wem"
+     },
+     {
+      "Id": "408493388",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 08.wav",
+      "Path": "Media/408493388.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 08_818F3B66.wem"
+     },
+     {
+      "Id": "493951429",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 12.wav",
+      "Path": "Media/493951429.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 12_818F3B66.wem"
+     },
+     {
+      "Id": "512023118",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 02.wav",
+      "Path": "Media/512023118.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 02_818F3B66.wem"
+     },
+     {
+      "Id": "545063135",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 05.wav",
+      "Path": "Media/545063135.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 05_818F3B66.wem"
+     },
+     {
+      "Id": "627765510",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 10.wav",
+      "Path": "Media/627765510.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 10_818F3B66.wem"
+     },
+     {
+      "Id": "662947305",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 03.wav",
+      "Path": "Media/662947305.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 03_818F3B66.wem"
+     },
+     {
+      "Id": "725009035",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 04.wav",
+      "Path": "Media/725009035.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 04_818F3B66.wem"
+     },
+     {
+      "Id": "915980609",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 06.wav",
+      "Path": "Media/915980609.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 06_818F3B66.wem"
+     },
+     {
+      "Id": "999336614",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Damage_Grunt 09.wav",
+      "Path": "Media/999336614.wem",
+      "CachePath": "SFX/MC_Damage_Grunt 09_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2706585737",
+      "Name": "Play_MC_Damage_Grunt",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MC_Damage_Grunt",
+      "GUID": "{0BBDED07-1745-479D-B637-D2C52C83DF84}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.32685417",
+      "DurationMax": "0.90414584",
+      "MediaRefs": [
+       {
+        "Id": "156678454"
+       },
+       {
+        "Id": "239794276"
+       },
+       {
+        "Id": "266188950"
+       },
+       {
+        "Id": "288387637"
+       },
+       {
+        "Id": "408493388"
+       },
+       {
+        "Id": "493951429"
+       },
+       {
+        "Id": "512023118"
+       },
+       {
+        "Id": "545063135"
+       },
+       {
+        "Id": "627765510"
+       },
+       {
+        "Id": "662947305"
+       },
+       {
+        "Id": "725009035"
+       },
+       {
+        "Id": "915980609"
+       },
+       {
+        "Id": "999336614"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{684F0F2D-97B8-D2DB-DC54-D86E012476E4}"
+ }
+}

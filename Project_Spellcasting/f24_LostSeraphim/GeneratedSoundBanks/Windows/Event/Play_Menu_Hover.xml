@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="3835684012" Type="Event" GUID="{F5834451-00F2-4153-9FE8-FFB7AF882CFC}" Language="SFX" Hash="{156AAAB9-CAB9-2E1C-0F31-901044312D53}">
+			<ObjectPath>Play_Menu_Hover</ObjectPath>
+			<ShortName>Play_Menu_Hover</ShortName>
+			<Path>Event/Play_Menu_Hover.bnk</Path>
+			<Media>
+				<File Id="334494302" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>UI_Menu_Hover 2.wav</ShortName>
+					<Path>Media/334494302.wem</Path>
+					<CachePath>SFX/UI_Menu_Hover 2_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3835684012" Name="Play_Menu_Hover" ObjectPath="\Events\Default Work Unit\Play_Menu_Hover" GUID="{F5834451-00F2-4153-9FE8-FFB7AF882CFC}" DurationType="OneShot" DurationMin="3.0310137" DurationMax="3.0310137">
+					<MediaRefs>
+						<MediaRef Id="334494302"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{99AE1A6D-5AFA-0038-ABB7-A773414973D4}</FileHash>
+</SoundBanksInfo>

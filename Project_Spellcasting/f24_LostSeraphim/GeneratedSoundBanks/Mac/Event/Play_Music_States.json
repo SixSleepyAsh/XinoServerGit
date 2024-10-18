@@ -1,0 +1,124 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2102585688",
+    "Type": "Event",
+    "GUID": "{1D0C8480-CA59-47B3-AD80-FFD89566BF0F}",
+    "Language": "SFX",
+    "Hash": "{9688B146-5CBA-9983-5F82-233AA78073EA}",
+    "ObjectPath": "Play_Music_States",
+    "ShortName": "Play_Music_States",
+    "Path": "Event/Play_Music_States.bnk",
+    "Media": [
+     {
+      "Id": "159398136",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Percussion_LoopV3.wav",
+      "Path": "Media/159398136.wem",
+      "CachePath": "SFX/Percussion_LoopV3_FBC78EF0.wem"
+     },
+     {
+      "Id": "225153878",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Percussion_InitialV2.wav",
+      "Path": "Media/225153878.wem",
+      "CachePath": "SFX/Percussion_InitialV2_FBC78EF0.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2102585688",
+      "Name": "Play_Music_States",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Music_States",
+      "GUID": "{1D0C8480-CA59-47B3-AD80-FFD89566BF0F}",
+      "DurationType": "Infinite",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3103015060",
+         "Id": "2764240573",
+         "GUID": "{FE0AEC1B-12C2-4E9C-B96D-D77596B5BA56}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "159398136"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3103015060",
+         "Id": "2323193050",
+         "GUID": "{68790A90-DC46-43BC-A2E8-88CB90601BFF}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "225153878"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "3103015060",
+      "Name": "MusicStates",
+      "ObjectPath": "\\States\\Default Work Unit\\MusicStates",
+      "GUID": "{FACE4C42-1E54-4C9A-9DC0-91F1BA8C4D17}",
+      "States": [
+       {
+        "Id": "221232726",
+        "Name": "Lose",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Lose",
+        "GUID": "{6DEF5189-D84E-4ECB-8E42-4CB2B7852251}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\None",
+        "GUID": "{33B021F5-FE14-4C48-86B9-F00517AA9789}"
+       },
+       {
+        "Id": "979765101",
+        "Name": "Win",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Win",
+        "GUID": "{57503683-A47D-41BD-85AF-F8285224ABE9}"
+       },
+       {
+        "Id": "2323193050",
+        "Name": "Temple",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Temple",
+        "GUID": "{68790A90-DC46-43BC-A2E8-88CB90601BFF}"
+       },
+       {
+        "Id": "2764240573",
+        "Name": "Combat",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Combat",
+        "GUID": "{FE0AEC1B-12C2-4E9C-B96D-D77596B5BA56}"
+       },
+       {
+        "Id": "3604647259",
+        "Name": "MainMenu",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\MainMenu",
+        "GUID": "{9A365F6C-1F26-418A-939B-4CCC628B23E3}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{53EB10C7-9BAF-1877-2FBA-BEAC2617B4A2}"
+ }
+}

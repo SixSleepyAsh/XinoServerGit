@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1802899322" Type="Event" GUID="{8E542A4D-1A8B-412E-9DD5-593467D85AF0}" Language="SFX" Hash="{507ED079-6542-A935-8B5D-3060FF3B6D11}">
+			<ObjectPath>Play_Ambience_Temple</ObjectPath>
+			<ShortName>Play_Ambience_Temple</ShortName>
+			<Path>Event/Play_Ambience_Temple.bnk</Path>
+			<Media>
+				<File Id="226612360" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_Temple-001.wav</ShortName>
+					<Path>Media/226612360.wem</Path>
+					<CachePath>SFX/Ambience_Temple-001_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1802899322" Name="Play_Ambience_Temple" ObjectPath="\Events\Default Work Unit\Play_Ambience_Temple" GUID="{8E542A4D-1A8B-412E-9DD5-593467D85AF0}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="226612360"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="4091764041" Name="AmbienceSwitch" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch" GUID="{1530E54A-C249-44CF-A6F7-DDB73ADCA22B}">
+					<Switches>
+						<Switch Id="2323193050" Name="Temple" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\Temple" GUID="{58A168D1-2D59-471B-A216-53CC222733BA}"/>
+						<Switch Id="3604647259" Name="MainMenu" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\MainMenu" GUID="{7C3F9F63-D83A-42AE-BDAF-C2A679E1D92A}"/>
+						<Switch Id="4048393986" Name="CombatArena" ObjectPath="\Switches\Default Work Unit\AmbienceSwitch\CombatArena" GUID="{C35B205A-666D-4023-9C80-7AB64B98A337}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{BDF10FE7-1765-22D4-1291-5B7BECC4711A}</FileHash>
+</SoundBanksInfo>

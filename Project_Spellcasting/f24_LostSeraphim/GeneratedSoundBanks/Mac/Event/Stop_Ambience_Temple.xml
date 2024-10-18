@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2297581844" Type="Event" GUID="{EBCAAE7F-3667-44CC-B08B-81A1788ECC95}" Language="SFX" Hash="{5973ED6A-C680-A15C-B07F-6DD2275063A3}">
+			<ObjectPath>Stop_Ambience_Temple</ObjectPath>
+			<ShortName>Stop_Ambience_Temple</ShortName>
+			<Path>Event/Stop_Ambience_Temple.bnk</Path>
+			<Events>
+				<Event Id="2297581844" Name="Stop_Ambience_Temple" ObjectPath="\Events\Default Work Unit\Stop_Ambience_Temple" GUID="{EBCAAE7F-3667-44CC-B08B-81A1788ECC95}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{F04A652A-C73C-BE80-CC17-6E0DBB93618E}</FileHash>
+</SoundBanksInfo>

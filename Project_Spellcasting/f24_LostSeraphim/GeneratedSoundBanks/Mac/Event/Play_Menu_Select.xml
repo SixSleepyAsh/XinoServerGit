@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2167056030" Type="Event" GUID="{98D2E00B-4719-4A91-9FF6-362724D7D04E}" Language="SFX" Hash="{0AA484BE-8218-77C8-5AFF-01711E445C52}">
+			<ObjectPath>Play_Menu_Select</ObjectPath>
+			<ShortName>Play_Menu_Select</ShortName>
+			<Path>Event/Play_Menu_Select.bnk</Path>
+			<Media>
+				<File Id="507855445" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MenuUISample.wav</ShortName>
+					<Path>Media/507855445.wem</Path>
+					<CachePath>SFX/MenuUISample_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2167056030" Name="Play_Menu_Select" ObjectPath="\Events\Default Work Unit\Play_Menu_Select" GUID="{98D2E00B-4719-4A91-9FF6-362724D7D04E}" DurationType="OneShot" DurationMin="1.8226666" DurationMax="1.8226666">
+					<MediaRefs>
+						<MediaRef Id="507855445"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{74FB4329-FF07-4CB9-197E-17782C03A605}</FileHash>
+</SoundBanksInfo>

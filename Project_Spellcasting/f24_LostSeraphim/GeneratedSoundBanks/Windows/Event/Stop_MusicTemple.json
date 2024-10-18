@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "803870886",
+    "Type": "Event",
+    "GUID": "{DCF5F564-0C9F-4B57-830B-8D6308DD96E1}",
+    "Language": "SFX",
+    "Hash": "{C6B697F1-0D53-9141-7CC0-E67728D51B0E}",
+    "ObjectPath": "Stop_MusicTemple",
+    "ShortName": "Stop_MusicTemple",
+    "Path": "Event/Stop_MusicTemple.bnk",
+    "Events": [
+     {
+      "Id": "803870886",
+      "Name": "Stop_MusicTemple",
+      "ObjectPath": "\\Events\\Default Work Unit\\Stop_MusicTemple",
+      "GUID": "{DCF5F564-0C9F-4B57-830B-8D6308DD96E1}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3C7F8F07-60A3-426B-5051-5148520F0BF5}"
+ }
+}

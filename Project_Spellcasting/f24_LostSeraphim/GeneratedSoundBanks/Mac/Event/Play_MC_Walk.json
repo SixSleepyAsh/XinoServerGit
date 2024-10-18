@@ -1,0 +1,336 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "3017749058",
+    "Type": "Event",
+    "GUID": "{BA00D77E-F91F-4E93-8F3D-CDE04A0A3D5E}",
+    "Language": "SFX",
+    "Hash": "{FF1BD9D2-6119-1479-DF55-6C1E1EACD31D}",
+    "ObjectPath": "Play_MC_Walk",
+    "ShortName": "Play_MC_Walk",
+    "Path": "Event/Play_MC_Walk.bnk",
+    "Media": [
+     {
+      "Id": "78192299",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 16.wav",
+      "Path": "Media/78192299.wem",
+      "CachePath": "SFX/MC_Walk 16_818F3B66.wem"
+     },
+     {
+      "Id": "80037141",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 17.wav",
+      "Path": "Media/80037141.wem",
+      "CachePath": "SFX/MC_Walk 17_818F3B66.wem"
+     },
+     {
+      "Id": "87733818",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 12.wav",
+      "Path": "Media/87733818.wem",
+      "CachePath": "SFX/MC_Walk 12_818F3B66.wem"
+     },
+     {
+      "Id": "108371762",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 14.wav",
+      "Path": "Media/108371762.wem",
+      "CachePath": "SFX/MC_Walk 14_818F3B66.wem"
+     },
+     {
+      "Id": "112156269",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 11.wav",
+      "Path": "Media/112156269.wem",
+      "CachePath": "SFX/MC_Walk 11_818F3B66.wem"
+     },
+     {
+      "Id": "112537702",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 18.wav",
+      "Path": "Media/112537702.wem",
+      "CachePath": "SFX/MC_Walk 18_818F3B66.wem"
+     },
+     {
+      "Id": "152273768",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 09.wav",
+      "Path": "Media/152273768.wem",
+      "CachePath": "SFX/MC_Walk 09_818F3B66.wem"
+     },
+     {
+      "Id": "165478634",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 21.wav",
+      "Path": "Media/165478634.wem",
+      "CachePath": "SFX/MC_Walk 21_818F3B66.wem"
+     },
+     {
+      "Id": "292943355",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 10.wav",
+      "Path": "Media/292943355.wem",
+      "CachePath": "SFX/MC_Walk 10_818F3B66.wem"
+     },
+     {
+      "Id": "340416919",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 25.wav",
+      "Path": "Media/340416919.wem",
+      "CachePath": "SFX/MC_Walk 25_818F3B66.wem"
+     },
+     {
+      "Id": "349025232",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 24.wav",
+      "Path": "Media/349025232.wem",
+      "CachePath": "SFX/MC_Walk 24_818F3B66.wem"
+     },
+     {
+      "Id": "360136608",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 15.wav",
+      "Path": "Media/360136608.wem",
+      "CachePath": "SFX/MC_Walk 15_818F3B66.wem"
+     },
+     {
+      "Id": "500125972",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 05.wav",
+      "Path": "Media/500125972.wem",
+      "CachePath": "SFX/MC_Walk 05_818F3B66.wem"
+     },
+     {
+      "Id": "517372410",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 04.wav",
+      "Path": "Media/517372410.wem",
+      "CachePath": "SFX/MC_Walk 04_818F3B66.wem"
+     },
+     {
+      "Id": "571769058",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 02.wav",
+      "Path": "Media/571769058.wem",
+      "CachePath": "SFX/MC_Walk 02_818F3B66.wem"
+     },
+     {
+      "Id": "575094445",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 23.wav",
+      "Path": "Media/575094445.wem",
+      "CachePath": "SFX/MC_Walk 23_818F3B66.wem"
+     },
+     {
+      "Id": "578717253",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 08.wav",
+      "Path": "Media/578717253.wem",
+      "CachePath": "SFX/MC_Walk 08_818F3B66.wem"
+     },
+     {
+      "Id": "660278269",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 22.wav",
+      "Path": "Media/660278269.wem",
+      "CachePath": "SFX/MC_Walk 22_818F3B66.wem"
+     },
+     {
+      "Id": "660549744",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 01.wav",
+      "Path": "Media/660549744.wem",
+      "CachePath": "SFX/MC_Walk 01_818F3B66.wem"
+     },
+     {
+      "Id": "761416565",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 07.wav",
+      "Path": "Media/761416565.wem",
+      "CachePath": "SFX/MC_Walk 07_818F3B66.wem"
+     },
+     {
+      "Id": "868564320",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 13.wav",
+      "Path": "Media/868564320.wem",
+      "CachePath": "SFX/MC_Walk 13_818F3B66.wem"
+     },
+     {
+      "Id": "925591313",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 06.wav",
+      "Path": "Media/925591313.wem",
+      "CachePath": "SFX/MC_Walk 06_818F3B66.wem"
+     },
+     {
+      "Id": "978864678",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 20.wav",
+      "Path": "Media/978864678.wem",
+      "CachePath": "SFX/MC_Walk 20_818F3B66.wem"
+     },
+     {
+      "Id": "979952240",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 19.wav",
+      "Path": "Media/979952240.wem",
+      "CachePath": "SFX/MC_Walk 19_818F3B66.wem"
+     },
+     {
+      "Id": "1054463190",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_Walk 03.wav",
+      "Path": "Media/1054463190.wem",
+      "CachePath": "SFX/MC_Walk 03_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3017749058",
+      "Name": "Play_MC_Walk",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MC_Walk",
+      "GUID": "{BA00D77E-F91F-4E93-8F3D-CDE04A0A3D5E}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.24635416",
+      "DurationMax": "0.42483333",
+      "MediaRefs": [
+       {
+        "Id": "78192299"
+       },
+       {
+        "Id": "80037141"
+       },
+       {
+        "Id": "87733818"
+       },
+       {
+        "Id": "108371762"
+       },
+       {
+        "Id": "112156269"
+       },
+       {
+        "Id": "112537702"
+       },
+       {
+        "Id": "152273768"
+       },
+       {
+        "Id": "165478634"
+       },
+       {
+        "Id": "292943355"
+       },
+       {
+        "Id": "340416919"
+       },
+       {
+        "Id": "349025232"
+       },
+       {
+        "Id": "360136608"
+       },
+       {
+        "Id": "500125972"
+       },
+       {
+        "Id": "517372410"
+       },
+       {
+        "Id": "571769058"
+       },
+       {
+        "Id": "575094445"
+       },
+       {
+        "Id": "578717253"
+       },
+       {
+        "Id": "660278269"
+       },
+       {
+        "Id": "660549744"
+       },
+       {
+        "Id": "761416565"
+       },
+       {
+        "Id": "868564320"
+       },
+       {
+        "Id": "925591313"
+       },
+       {
+        "Id": "978864678"
+       },
+       {
+        "Id": "979952240"
+       },
+       {
+        "Id": "1054463190"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{CD4FF0D2-4894-3A05-B7C4-F59E16F16515}"
+ }
+}

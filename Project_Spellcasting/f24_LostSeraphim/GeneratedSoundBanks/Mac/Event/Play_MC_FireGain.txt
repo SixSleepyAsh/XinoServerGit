@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	372985744	Play_MC_FireGain			\Default Work Unit\Play_MC_FireGain	
+

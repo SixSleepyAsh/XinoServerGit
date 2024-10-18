@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1802899322	Play_Ambience_Temple			\Default Work Unit\Play_Ambience_Temple	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	4091764041	AmbienceSwitch			\Default Work Unit\AmbienceSwitch	
+
+Switch	ID	Name	Switch Group			Notes
+	2323193050	Temple	AmbienceSwitch			
+	3604647259	MainMenu	AmbienceSwitch			
+	4048393986	CombatArena	AmbienceSwitch			
+

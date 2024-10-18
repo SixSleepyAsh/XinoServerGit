@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="3017749058" Type="Event" GUID="{BA00D77E-F91F-4E93-8F3D-CDE04A0A3D5E}" Language="SFX" Hash="{FF1BD9D2-6119-1479-DF55-6C1E1EACD31D}">
+			<ObjectPath>Play_MC_Walk</ObjectPath>
+			<ShortName>Play_MC_Walk</ShortName>
+			<Path>Event/Play_MC_Walk.bnk</Path>
+			<Media>
+				<File Id="78192299" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 16.wav</ShortName>
+					<Path>Media/78192299.wem</Path>
+					<CachePath>SFX/MC_Walk 16_818F3B66.wem</CachePath>
+				</File>
+				<File Id="80037141" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 17.wav</ShortName>
+					<Path>Media/80037141.wem</Path>
+					<CachePath>SFX/MC_Walk 17_818F3B66.wem</CachePath>
+				</File>
+				<File Id="87733818" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 12.wav</ShortName>
+					<Path>Media/87733818.wem</Path>
+					<CachePath>SFX/MC_Walk 12_818F3B66.wem</CachePath>
+				</File>
+				<File Id="108371762" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 14.wav</ShortName>
+					<Path>Media/108371762.wem</Path>
+					<CachePath>SFX/MC_Walk 14_818F3B66.wem</CachePath>
+				</File>
+				<File Id="112156269" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 11.wav</ShortName>
+					<Path>Media/112156269.wem</Path>
+					<CachePath>SFX/MC_Walk 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="112537702" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 18.wav</ShortName>
+					<Path>Media/112537702.wem</Path>
+					<CachePath>SFX/MC_Walk 18_818F3B66.wem</CachePath>
+				</File>
+				<File Id="152273768" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 09.wav</ShortName>
+					<Path>Media/152273768.wem</Path>
+					<CachePath>SFX/MC_Walk 09_818F3B66.wem</CachePath>
+				</File>
+				<File Id="165478634" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 21.wav</ShortName>
+					<Path>Media/165478634.wem</Path>
+					<CachePath>SFX/MC_Walk 21_818F3B66.wem</CachePath>
+				</File>
+				<File Id="292943355" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 10.wav</ShortName>
+					<Path>Media/292943355.wem</Path>
+					<CachePath>SFX/MC_Walk 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="340416919" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 25.wav</ShortName>
+					<Path>Media/340416919.wem</Path>
+					<CachePath>SFX/MC_Walk 25_818F3B66.wem</CachePath>
+				</File>
+				<File Id="349025232" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 24.wav</ShortName>
+					<Path>Media/349025232.wem</Path>
+					<CachePath>SFX/MC_Walk 24_818F3B66.wem</CachePath>
+				</File>
+				<File Id="360136608" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 15.wav</ShortName>
+					<Path>Media/360136608.wem</Path>
+					<CachePath>SFX/MC_Walk 15_818F3B66.wem</CachePath>
+				</File>
+				<File Id="500125972" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 05.wav</ShortName>
+					<Path>Media/500125972.wem</Path>
+					<CachePath>SFX/MC_Walk 05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="517372410" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 04.wav</ShortName>
+					<Path>Media/517372410.wem</Path>
+					<CachePath>SFX/MC_Walk 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="571769058" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 02.wav</ShortName>
+					<Path>Media/571769058.wem</Path>
+					<CachePath>SFX/MC_Walk 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="575094445" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 23.wav</ShortName>
+					<Path>Media/575094445.wem</Path>
+					<CachePath>SFX/MC_Walk 23_818F3B66.wem</CachePath>
+				</File>
+				<File Id="578717253" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 08.wav</ShortName>
+					<Path>Media/578717253.wem</Path>
+					<CachePath>SFX/MC_Walk 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="660278269" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 22.wav</ShortName>
+					<Path>Media/660278269.wem</Path>
+					<CachePath>SFX/MC_Walk 22_818F3B66.wem</CachePath>
+				</File>
+				<File Id="660549744" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 01.wav</ShortName>
+					<Path>Media/660549744.wem</Path>
+					<CachePath>SFX/MC_Walk 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="761416565" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 07.wav</ShortName>
+					<Path>Media/761416565.wem</Path>
+					<CachePath>SFX/MC_Walk 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="868564320" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 13.wav</ShortName>
+					<Path>Media/868564320.wem</Path>
+					<CachePath>SFX/MC_Walk 13_818F3B66.wem</CachePath>
+				</File>
+				<File Id="925591313" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 06.wav</ShortName>
+					<Path>Media/925591313.wem</Path>
+					<CachePath>SFX/MC_Walk 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="978864678" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 20.wav</ShortName>
+					<Path>Media/978864678.wem</Path>
+					<CachePath>SFX/MC_Walk 20_818F3B66.wem</CachePath>
+				</File>
+				<File Id="979952240" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 19.wav</ShortName>
+					<Path>Media/979952240.wem</Path>
+					<CachePath>SFX/MC_Walk 19_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1054463190" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Walk 03.wav</ShortName>
+					<Path>Media/1054463190.wem</Path>
+					<CachePath>SFX/MC_Walk 03_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3017749058" Name="Play_MC_Walk" ObjectPath="\Events\Default Work Unit\Play_MC_Walk" GUID="{BA00D77E-F91F-4E93-8F3D-CDE04A0A3D5E}" DurationType="OneShot" DurationMin="0.24635416" DurationMax="0.42483333">
+					<MediaRefs>
+						<MediaRef Id="78192299"/>
+						<MediaRef Id="80037141"/>
+						<MediaRef Id="87733818"/>
+						<MediaRef Id="108371762"/>
+						<MediaRef Id="112156269"/>
+						<MediaRef Id="112537702"/>
+						<MediaRef Id="152273768"/>
+						<MediaRef Id="165478634"/>
+						<MediaRef Id="292943355"/>
+						<MediaRef Id="340416919"/>
+						<MediaRef Id="349025232"/>
+						<MediaRef Id="360136608"/>
+						<MediaRef Id="500125972"/>
+						<MediaRef Id="517372410"/>
+						<MediaRef Id="571769058"/>
+						<MediaRef Id="575094445"/>
+						<MediaRef Id="578717253"/>
+						<MediaRef Id="660278269"/>
+						<MediaRef Id="660549744"/>
+						<MediaRef Id="761416565"/>
+						<MediaRef Id="868564320"/>
+						<MediaRef Id="925591313"/>
+						<MediaRef Id="978864678"/>
+						<MediaRef Id="979952240"/>
+						<MediaRef Id="1054463190"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{44A22087-CCB6-40AC-0AEF-336458F30FA7}</FileHash>
+</SoundBanksInfo>

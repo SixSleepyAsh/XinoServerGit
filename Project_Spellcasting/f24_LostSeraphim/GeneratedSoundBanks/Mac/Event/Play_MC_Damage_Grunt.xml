@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2706585737" Type="Event" GUID="{0BBDED07-1745-479D-B637-D2C52C83DF84}" Language="SFX" Hash="{5976ED08-077D-E58F-AC9A-90B0448ACBC4}">
+			<ObjectPath>Play_MC_Damage_Grunt</ObjectPath>
+			<ShortName>Play_MC_Damage_Grunt</ShortName>
+			<Path>Event/Play_MC_Damage_Grunt.bnk</Path>
+			<Media>
+				<File Id="156678454" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 11.wav</ShortName>
+					<Path>Media/156678454.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 11_818F3B66.wem</CachePath>
+				</File>
+				<File Id="239794276" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 01.wav</ShortName>
+					<Path>Media/239794276.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="266188950" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 13.wav</ShortName>
+					<Path>Media/266188950.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 13_818F3B66.wem</CachePath>
+				</File>
+				<File Id="288387637" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 07.wav</ShortName>
+					<Path>Media/288387637.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 07_818F3B66.wem</CachePath>
+				</File>
+				<File Id="408493388" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 08.wav</ShortName>
+					<Path>Media/408493388.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 08_818F3B66.wem</CachePath>
+				</File>
+				<File Id="493951429" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 12.wav</ShortName>
+					<Path>Media/493951429.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 12_818F3B66.wem</CachePath>
+				</File>
+				<File Id="512023118" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 02.wav</ShortName>
+					<Path>Media/512023118.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="545063135" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 05.wav</ShortName>
+					<Path>Media/545063135.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="627765510" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 10.wav</ShortName>
+					<Path>Media/627765510.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 10_818F3B66.wem</CachePath>
+				</File>
+				<File Id="662947305" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 03.wav</ShortName>
+					<Path>Media/662947305.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="725009035" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 04.wav</ShortName>
+					<Path>Media/725009035.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="915980609" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 06.wav</ShortName>
+					<Path>Media/915980609.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="999336614" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>MC_Damage_Grunt 09.wav</ShortName>
+					<Path>Media/999336614.wem</Path>
+					<CachePath>SFX/MC_Damage_Grunt 09_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2706585737" Name="Play_MC_Damage_Grunt" ObjectPath="\Events\Default Work Unit\Play_MC_Damage_Grunt" GUID="{0BBDED07-1745-479D-B637-D2C52C83DF84}" DurationType="OneShot" DurationMin="0.32685417" DurationMax="0.90414584">
+					<MediaRefs>
+						<MediaRef Id="156678454"/>
+						<MediaRef Id="239794276"/>
+						<MediaRef Id="266188950"/>
+						<MediaRef Id="288387637"/>
+						<MediaRef Id="408493388"/>
+						<MediaRef Id="493951429"/>
+						<MediaRef Id="512023118"/>
+						<MediaRef Id="545063135"/>
+						<MediaRef Id="627765510"/>
+						<MediaRef Id="662947305"/>
+						<MediaRef Id="725009035"/>
+						<MediaRef Id="915980609"/>
+						<MediaRef Id="999336614"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{CACDEDAD-AE7C-2F8B-883E-C00DCEB685B6}</FileHash>
+</SoundBanksInfo>
