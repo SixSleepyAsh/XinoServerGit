@@ -16,14 +16,14 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Setup Unreal Engine
-      uses: unreal-actions/setup@v2
-      with:
-        version: 5.4.4  # Specify the version of Unreal Engine you're using
-        cache: true
+    - name: Install Visual Studio Build Tools
+      uses: microsoft/setup-msbuild@v1.1.0
+
+    - name: Set up Unreal Engine
+      run: |
+        choco install unrealengine --version=5.4.4 -y
+        & 'C:/Program Files/Epic Games/UE_5.4/Engine/Binaries/DotNET/UnrealBuildTool.exe' -projectfiles -project=$(pwd)/Project_Spellcasting/Project_Spellcasting.uproject -game
 
     - name: Build Unreal Project
       run: |
-        # Ensure that UnrealBuildTool is in the path
-        & 'C:/Program Files/Epic Games/UE_5.4/Engine/Binaries/DotNET/UnrealBuildTool.exe' -projectfiles -project=$(pwd)/Project_Spellcasting/Project_Spellcasting.uproject -game
         & 'C:/Program Files/Epic Games/UE_5.4/Engine/Binaries/DotNET/UnrealBuildTool.exe' Development Win64 -project=$(pwd)/Project_Spellcasting/Project_Spellcasting.uproject -game -progress
