@@ -1,0 +1,29 @@
+name: Build Unreal Engine Project
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup Unreal Engine
+      uses: unreal-actions/setup@v2
+      with:
+        version: 5.4.4  # Specify the version of Unreal Engine you're using
+        cache: true
+
+    - name: Build Unreal Project
+      run: |
+        # Ensure that UnrealBuildTool is in the path
+        & 'C:/Program Files/Epic Games/UE_5.4/Engine/Binaries/DotNET/UnrealBuildTool.exe' -projectfiles -project=$(pwd)/Project_Spellcasting/Project_Spellcasting.uproject -game
+        & 'C:/Program Files/Epic Games/UE_5.4/Engine/Binaries/DotNET/UnrealBuildTool.exe' Development Win64 -project=$(pwd)/Project_Spellcasting/Project_Spellcasting.uproject -game -progress
